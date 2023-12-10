@@ -40,6 +40,8 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 ## TypeScript
 
+*   [DrssXpro/fanosy](https://github.com/DrssXpro/fanosy) - 一个个人学习的业务组件库
+
 *   [yaolong1/mini-vue3](https://github.com/yaolong1/mini-vue3) - 最完整的！！手写实现Vue3源码结构相同的mini-vue3 (带详细注释---便于完整学习vue源码)喜欢给个start吧！！
 
 *   [chodocs/chodocs](https://github.com/chodocs/chodocs) - 一站式前端内容网站，包括学习路线、知识体系。用专栏形式更新，原创不易，Give a ⭐️ if this project helped you!
@@ -343,8 +345,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [lhp96/filter-ui](https://github.com/lhp96/filter-ui) - 基于Vite的组件库开发实践
 
 *   [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
-
-*   [young-trigold/blog](https://github.com/young-trigold/blog) - personal blog, front-end && back-end monorepo project
 
 ## JavaScript
 
