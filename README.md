@@ -40,6 +40,8 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 ## TypeScript
 
+*   [WindrunnerMax/FileTransfer](https://github.com/WindrunnerMax/FileTransfer) - P2P File Transfer Base On WebRTC/WebSocket
+
 *   [DrssXpro/fanosy](https://github.com/DrssXpro/fanosy) - 一个个人学习的业务组件库
 
 *   [yaolong1/mini-vue3](https://github.com/yaolong1/mini-vue3) - 最完整的！！手写实现Vue3源码结构相同的mini-vue3 (带详细注释---便于完整学习vue源码)喜欢给个start吧！！
@@ -196,7 +198,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [bernaferrari/FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI.
 
-*   [resendlabs/react-email](https://github.com/resendlabs/react-email) - 💌 Build and send emails using React
+*   [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 
 *   [Mereithhh/vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
 
@@ -715,8 +717,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions
 
 *   [forthespada/programmer-resume](https://github.com/forthespada/programmer-resume) - 程序员简历，看完1000多份简历后，终于明白一份合格的计算机专业程序员简历应该是怎样的了，不需要花里胡哨，简简单单大大方方就足够了，可以star + folk后修改为自己的。
-
-*   [forthespada/CampusShame](https://github.com/forthespada/CampusShame) - 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！
 
 ## HTML
 
