@@ -362,7 +362,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [Sunny-117/esbuild-book](https://github.com/Sunny-117/esbuild-book) - 掘金专栏 esbuild 原理与应用实战 代码仓库 掘金专栏地址：https://juejin.cn/column/7285233095058718756
 
-*   [nuejs/nuejs](https://github.com/nuejs/nuejs) - Build user interfaces with cleaner code. Alternative to React, Vue, and Svelte
+*   [nuejs/nue](https://github.com/nuejs/nue) - Build user interfaces with cleaner code. Alternative to React, Vue, and Svelte
 
 *   [shengxinjing/fe-advanced-interview](https://github.com/shengxinjing/fe-advanced-interview) - 前端进阶面试指南
 
@@ -564,7 +564,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 
-*   [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
+*   [shepherd-pro/shepherd](https://github.com/shepherd-pro/shepherd) - Guide your users through a tour of your app
 
 *   [Power-kxLee/vue-print-nb](https://github.com/Power-kxLee/vue-print-nb) - Vue plug-in, print! Good!
 
