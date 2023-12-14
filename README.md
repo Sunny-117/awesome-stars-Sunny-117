@@ -17,11 +17,11 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 ## Table of Contents
 
+*   [Go](#go)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
-*   [Go](#go)
 *   [Objective-C](#objective-c)
 *   [Vue](#vue)
 *   [Python](#python)
@@ -37,6 +37,14 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [Ruby](#ruby)
 *   [Dart](#dart)
 *   [Thanks](#thanks)
+
+## Go
+
+*   [dairongpeng/algorithm-note](https://github.com/dairongpeng/algorithm-note) - 数组、链表、树、图、递归、DP、有序表等相关数据结构与算法的讲解及代码实现。
+
+*   [Sunny-117/im](https://github.com/Sunny-117/im) - Instant messaging system by golang
+
+*   [Toktik-Team/toktik](https://github.com/Toktik-Team/toktik) - ChatGPT integrated short video microservice application built with Kitex and Hertz. 第五届字节跳动青训营后端大作业“码如磐石奖（一等奖）”获奖项目
 
 ## TypeScript
 
@@ -716,8 +724,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions
 
-*   [forthespada/programmer-resume](https://github.com/forthespada/programmer-resume) - 程序员简历，看完1000多份简历后，终于明白一份合格的计算机专业程序员简历应该是怎样的了，不需要花里胡哨，简简单单大大方方就足够了，可以star + folk后修改为自己的。
-
 ## HTML
 
 *   [artiely/notes](https://github.com/artiely/notes) - javascript;css;html笔记 博客地址https://artiely.github.io
@@ -749,12 +755,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [erdengk/gsoc-analyse](https://github.com/erdengk/gsoc-analyse) - 帮助新手参与开源
 
 *   [cuixiaorui/recordCourse](https://github.com/cuixiaorui/recordCourse) - 一个教你如何优雅的实现撤销、回退记录的教程（如同浏览器的撤销回退）
-
-## Go
-
-*   [Sunny-117/im](https://github.com/Sunny-117/im) - Instant messaging system by golang
-
-*   [Toktik-Team/toktik](https://github.com/Toktik-Team/toktik) - ChatGPT integrated short video microservice application built with Kitex and Hertz. 第五届字节跳动青训营后端大作业“码如磐石奖（一等奖）”获奖项目
 
 ## Objective-C
 
