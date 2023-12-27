@@ -40,6 +40,8 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 ## TypeScript
 
+*   [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement
+
 *   [CodyJasonBennett/react-nylon](https://github.com/CodyJasonBennett/react-nylon) - react-reconciler implemented in < 4KB.
 
 *   [CodyJasonBennett/preact-reconciler](https://github.com/CodyJasonBennett/preact-reconciler) - Custom renderers for Preact in <1KB.
@@ -799,8 +801,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - ✨✨✨ Geeker Admin，基于 Vue3.3、TypeScript、Vite5、Pinia、Element-Plus 开源的一套后台管理框架。
 
 *   [shuo-china/shuo-ui](https://github.com/shuo-china/shuo-ui) - A Component Library for Vue3.js.
-
-*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 
 ## Python
 
