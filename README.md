@@ -17,8 +17,8 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 ## Table of Contents
 
-*   [Rust](#rust)
 *   [TypeScript](#typescript)
+*   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
 *   [Go](#go)
 *   [JavaScript](#javascript)
@@ -38,17 +38,13 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [Dart](#dart)
 *   [Thanks](#thanks)
 
-## Rust
-
-*   [juri-web/juri](https://github.com/juri-web/juri) - Web Framework
-
-*   [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
-
-*   [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
-
-*   [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<\<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book
-
 ## TypeScript
+
+*   [dbfu/bp-script-editor](https://github.com/dbfu/bp-script-editor) - 低代码脚本编辑器
+
+*   [c0dedance/r-press](https://github.com/c0dedance/r-press) - Rpress，一个基于 Vite 和 AI 加持的 SSG 静态站点框架
+
+*   [c0dedance/collab-draw](https://github.com/c0dedance/collab-draw) - 多人协同画板
 
 *   [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement
 
@@ -86,7 +82,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [Sunny-117/monorepo-starter](https://github.com/Sunny-117/monorepo-starter) - My minimal monorepo starter.
 
-*   [Sunny-117/tiny-vite](https://github.com/Sunny-117/tiny-vite) - ⚡️ tiny-vite 是一个轻量级的前端构建工具，旨在提供快速的开发体验和高效的构建过程。它基于 Vite 构建工具的核心思想，精简了一些功能，使其更加轻便易用。
+*   [Sunny-117/tiny-vite](https://github.com/Sunny-117/tiny-vite) - ⚡️ a lightweight frontend build tool designed to deliver swift development experiences and efficient build processes
 
 *   [Sunny-117/tiny-react](https://github.com/Sunny-117/tiny-react) -
 
@@ -99,8 +95,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [sorrycc/weekly](https://github.com/sorrycc/weekly) -  MDH Weekly 前端周刊，每周一上午 9 点发布。
 
 *   [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
-
-*   [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 
 *   [vue-vine/vue-vine](https://github.com/vue-vine/vue-vine) - Another style of writing Vue components.
 
@@ -356,9 +350,15 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
 
-*   [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
+## Rust
 
-*   [antfu/vue-minesweeper](https://github.com/antfu/vue-minesweeper) - A tiny minesweeper clone in Vue 3
+*   [juri-web/juri](https://github.com/juri-web/juri) - Web Framework
+
+*   [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
+
+*   [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
+
+*   [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<\<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book
 
 ## miscellaneous
 
@@ -470,8 +470,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [worldzhao/blog](https://github.com/worldzhao/blog) - 个人博客，内容在 issue 里。
 
-*   [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions
-
 ## Go
 
 *   [dairongpeng/algorithm-note](https://github.com/dairongpeng/algorithm-note) - 数组、链表、树、图、递归、DP、有序表等相关数据结构与算法的讲解及代码实现。
@@ -500,7 +498,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [Sunny-117/rollup-plugins-starter](https://github.com/Sunny-117/rollup-plugins-starter) - A template for developing Rollup plugins, providing a foundation to kickstart the creation of Rollup.js plugins with ease.
 
-*   [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - ✨✨✨ 集锦 2022-2023年 前端JavaScript 手写题，编程题，Not just for interviews
+*   [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - ✨✨✨ Challenge your JavaScript programming limits step by step
 
 *   [DrssXpro/js-challenges-answer](https://github.com/DrssXpro/js-challenges-answer) - about js-challenges-answer
 
@@ -532,7 +530,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [Coiggahou2002/Vue-Source-Analysis](https://github.com/Coiggahou2002/Vue-Source-Analysis) - 以添加注释方式解读 Vue 2.6.14 源码
 
-*   [Sunny-117/mini-anything](https://github.com/Sunny-117/mini-anything) - 🚀 mini-anything 是一个集合了前端领域的各种迷你版本的库，方便前端学习者学习，探索前端源码。里面的库是原库的超级迷你版本，只包含原库的主流程，不包含边界case，所以建议仅学习使用，请勿用于生产环境
+*   [Sunny-117/mini-anything](https://github.com/Sunny-117/mini-anything) - 🚀 Explore the source code of the front-end library and implement a super mini version
 
 *   [tencent-cdc/formast](https://github.com/tencent-cdc/formast) - 复杂业务场景下的企业级动态表单框架
 
@@ -576,7 +574,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [answershuto/learnVue](https://github.com/answershuto/learnVue) - :octocat:Vue.js 源码解析
 
-*   [Sunny-117/lodash-ts](https://github.com/Sunny-117/lodash-ts) - 🎉🎉🎉 lodash-ts 是一个一致性、模块化、高性能的 JavaScript 实用工具库。本仓库完成 lodash 的 typescript 版本，只实现 lodash 中漂亮的函数
+*   [Sunny-117/lodash-ts](https://github.com/Sunny-117/lodash-ts) - 🎉 A consistent, modular, and performant JavaScript utility library.
 
 *   [cssinjs/jss](https://github.com/cssinjs/jss) - JSS is an authoring tool for CSS which uses JavaScript as a host language.
 
@@ -778,7 +776,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [antfu/vite-plugin-inspect](https://github.com/antfu/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins
 
-*   [Sunny-117/Speed-measuring-gadget](https://github.com/Sunny-117/Speed-measuring-gadget) - 一款测网速小工具，同时它具有测试内外网的能力
+*   [Sunny-117/network-speed-js](https://github.com/Sunny-117/network-speed-js) - A small tool for testing network speed. It also has the ability to test internal and external networks.
 
 *   [widcardw/D4nm4ku](https://github.com/widcardw/D4nm4ku) - 使用 Tauri 写一个弹幕姬（已停止更新，或许会在几年后重写）
 
@@ -811,6 +809,8 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [shuo-china/shuo-ui](https://github.com/shuo-china/shuo-ui) - A Component Library for Vue3.js.
 
 ## Python
+
+*   [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 
 *   [kajweb/dict](https://github.com/kajweb/dict) - 英语字典 英语词库 字典词库 四级单词 六级单词 考研单词 雅思 托福 SAT GMAT TOEFL GRE
 
