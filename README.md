@@ -184,7 +184,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [1739616529/nsv](https://github.com/1739616529/nsv) - 一个跨平台node版本管理工具
 
-*   [pro-collection/interview-question](https://github.com/pro-collection/interview-question) - 目标是：收集全网面试问题， 做最全的题库
+*   [pro-collection/interview-question](https://github.com/pro-collection/interview-question) - 目标：收集全网经典面试问题
 
 *   [unjs/unbuild](https://github.com/unjs/unbuild) - 📦 An unified javascript build system
 
