@@ -19,9 +19,9 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
+*   [JavaScript](#javascript)
 *   [Rust](#rust)
 *   [Go](#go)
-*   [JavaScript](#javascript)
 *   [HTML](#html)
 *   [Objective-C](#objective-c)
 *   [Vue](#vue)
@@ -39,6 +39,12 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [Thanks](#thanks)
 
 ## TypeScript
+
+*   [cuixiaorui/earthworm](https://github.com/cuixiaorui/earthworm) - Learning English through the method of constructing sentences with conjunctions
+
+*   [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
+
+*   [bestofjs/bestofjs](https://github.com/bestofjs/bestofjs) - :star: A place to find the best components to build amazing web applications. The best of JavaScript!
 
 *   [sxzz/ast-walker-scope](https://github.com/sxzz/ast-walker-scope) - Traverse Babel AST with scope information.
 
@@ -346,11 +352,9 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [course-dasheng/source-tour](https://github.com/course-dasheng/source-tour) - 前端框架源码漫游记
 
-*   [cuixiaorui/vue3-template-magic](https://github.com/cuixiaorui/vue3-template-magic) - template code generator for vue3 template
-
-*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-
 ## miscellaneous
+
+*   [linjunc/react-study](https://github.com/linjunc/react-study) - 🎉 Here are all the high-quality React articles, a React repository worth learning
 
 *   [luban-agi/Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) - Curated tutorials and resources for Large Language Models, AI Painting, and more.
 
@@ -460,25 +464,9 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [TonnnnnnyLiu/Books](https://github.com/TonnnnnnyLiu/Books) -
 
-## Rust
-
-*   [juri-web/juri](https://github.com/juri-web/juri) - Web Framework
-
-*   [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
-
-*   [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
-
-*   [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<\<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book
-
-## Go
-
-*   [dairongpeng/algorithm-note](https://github.com/dairongpeng/algorithm-note) - 数组、链表、树、图、递归、DP、有序表等相关数据结构与算法的讲解及代码实现。
-
-*   [Sunny-117/im](https://github.com/Sunny-117/im) - Instant messaging system by golang
-
-*   [Toktik-Team/toktik](https://github.com/Toktik-Team/toktik) - ChatGPT integrated short video microservice application built with Kitex and Hertz. 第五届字节跳动青训营后端大作业“码如磐石奖（一等奖）”获奖项目
-
 ## JavaScript
+
+*   [linjunc/linjunc.github.io](https://github.com/linjunc/linjunc.github.io) - 🎉  This is my personal website with information about React、TypeScript、FrontEnd etc.
 
 *   [sl1673495/blogs](https://github.com/sl1673495/blogs) - :book: 全网 100w+ 阅读量的进阶前端技术博客仓库，Vue 源码解析，React 深度实践，TypeScript 进阶艺术，工程化，性能优化实践……
 
@@ -728,9 +716,23 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [hug-sun/element3](https://github.com/hug-sun/element3) - A Vue.js 3.0 UI Toolkit for IT Education. Build with JS\&TS
 
-*   [cuixiaorui/bezierCurvDraw](https://github.com/cuixiaorui/bezierCurvDraw) - 基于贝塞尔曲线拟合算法实现绘制平滑曲线
+## Rust
 
-*   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+*   [juri-web/juri](https://github.com/juri-web/juri) - Web Framework
+
+*   [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
+
+*   [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
+
+*   [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<\<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book
+
+## Go
+
+*   [dairongpeng/algorithm-note](https://github.com/dairongpeng/algorithm-note) - 数组、链表、树、图、递归、DP、有序表等相关数据结构与算法的讲解及代码实现。
+
+*   [Sunny-117/im](https://github.com/Sunny-117/im) - Instant messaging system by golang
+
+*   [Toktik-Team/toktik](https://github.com/Toktik-Team/toktik) - ChatGPT integrated short video microservice application built with Kitex and Hertz. 第五届字节跳动青训营后端大作业“码如磐石奖（一等奖）”获奖项目
 
 ## HTML
 
@@ -761,8 +763,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [sindresorhus/screenfull](https://github.com/sindresorhus/screenfull) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
 
 *   [erdengk/gsoc-analyse](https://github.com/erdengk/gsoc-analyse) - 帮助新手参与开源
-
-*   [cuixiaorui/recordCourse](https://github.com/cuixiaorui/recordCourse) - 一个教你如何优雅的实现撤销、回退记录的教程（如同浏览器的撤销回退）
 
 ## Objective-C
 
