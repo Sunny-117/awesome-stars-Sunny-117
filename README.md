@@ -496,7 +496,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [Sunny-117/esbuild-book](https://github.com/Sunny-117/esbuild-book) - 掘金专栏 esbuild 原理与应用实战 代码仓库 掘金专栏地址：https://juejin.cn/column/7285233095058718756
 
-*   [nuejs/nue](https://github.com/nuejs/nue) - The closer-to-standards web framework. Simple alternative to Next.js and Astro.
+*   [nuejs/nue](https://github.com/nuejs/nue) - The Content First Web Framework
 
 *   [shengxinjing/fe-advanced-interview](https://github.com/shengxinjing/fe-advanced-interview) - 前端进阶面试指南
 
