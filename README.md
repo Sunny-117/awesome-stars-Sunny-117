@@ -40,6 +40,8 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 ## TypeScript
 
+*   [Sunny-117/shooks](https://github.com/Sunny-117/shooks) - 📦️ A high-quality & reliable React Hooks library.
+
 *   [Sunny-117/cherry](https://github.com/Sunny-117/cherry) - ✨ Lightweight JavaScript Bundler
 
 *   [swanine/form-design](https://github.com/swanine/form-design) - 📃 低代码项目核心组件 - 表单设计
@@ -475,8 +477,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [antfu/discussions](https://github.com/antfu/discussions) - Discussion channel for live streams
 
 *   [resumejob/awesome-resume](https://github.com/resumejob/awesome-resume) - Resume，Resume Templates，程序员简历例句，简历模版，
-
-*   [itdevbooks/pdf](https://github.com/itdevbooks/pdf) - 编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类
 
 ## JavaScript
 
