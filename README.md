@@ -42,7 +42,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [Sunny-117/shooks](https://github.com/Sunny-117/shooks) - 📦️ A high-quality & reliable React Hooks library.
 
-*   [Sunny-117/cherry](https://github.com/Sunny-117/cherry) - ✨ Lightweight JavaScript Bundler
+*   [Sunny-117/cherry](https://github.com/Sunny-117/cherry) - ✨ A lightweight JavaScript packaging library based on magic-string and acorn, supporting tree-shaking
 
 *   [swanine/form-design](https://github.com/swanine/form-design) - 📃 低代码项目核心组件 - 表单设计
 
