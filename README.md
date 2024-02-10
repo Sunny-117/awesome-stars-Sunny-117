@@ -40,6 +40,8 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 ## TypeScript
 
+*   [Sunny-117/jspack](https://github.com/Sunny-117/jspack) -
+
 *   [Sunny-117/tiny-vue](https://github.com/Sunny-117/tiny-vue) -
 
 *   [Sunny-117/shooks](https://github.com/Sunny-117/shooks) - 📦️ A high-quality & reliable React Hooks library.
@@ -367,8 +369,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra) - JavaScript package manager
 
 *   [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-
-*   [omni-door/cli](https://github.com/omni-door/cli) - 🐸  The command-line interface for set up a standard frontend project (react-spa, vue-spa, react-ssr, react-component, vue-component, toolkit)
 
 ## JavaScript
 
