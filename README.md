@@ -40,6 +40,8 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 ## TypeScript
 
+*   [Sunny-117/treejs](https://github.com/Sunny-117/treejs) - 🌱 易上手、高性能、强拓展的 Tree 组件，同时支持 Vuejs 和 React
+
 *   [Sunny-117/jspack](https://github.com/Sunny-117/jspack) -
 
 *   [Sunny-117/tiny-vue](https://github.com/Sunny-117/tiny-vue) -
@@ -318,8 +320,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 
-*   [Sunny-117/mini-vite](https://github.com/Sunny-117/mini-vite) - 下一代的前端工具链 Vite 核心逻辑
-
 *   [unjs/nypm](https://github.com/unjs/nypm) - 🌈 Unified Package Manager for Node.js and Bun
 
 *   [MariusAlch/vscode-json-to-ts](https://github.com/MariusAlch/vscode-json-to-ts) - VSCode extension - Convert JSON object to typescript interfaces
@@ -371,6 +371,8 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 
 ## JavaScript
+
+*   [Sunny-117/commencer](https://github.com/Sunny-117/commencer) - Starter template for xxx
 
 *   [JedWatson/classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together
 
@@ -540,6 +542,8 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [lgwebdream/fe-code](https://github.com/lgwebdream/fe-code) - 🚗很很多前端同学，每日不仅要忙于内卷，还要忙于奔波在重复的业务逻辑期间，所以我们索性开发了这样一款工具，帮助大家可以直接根据接口生成 CURD 的全部代码，让大家生活多些快乐~
 
+*   [Sunny-117/mini-vite](https://github.com/Sunny-117/mini-vite) - 下一代的前端工具链 Vite 核心逻辑
+
 *   [bytedance/xgplayer](https://github.com/bytedance/xgplayer) - A HTML5 video player with a parser that saves traffic
 
 *   [XPoet/js-data-structures-and-algorithms](https://github.com/XPoet/js-data-structures-and-algorithms) - 从 0 到 1 学习 JavaScript 数据结构与算法
@@ -611,8 +615,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 
 *   [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
-
-*   [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
 
 ## miscellaneous
 
@@ -717,8 +719,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [FrankFang/best-chinese-front-end-blogs](https://github.com/FrankFang/best-chinese-front-end-blogs) - 收集优质的中文前端博客
 
 *   [jamiebuilds/babel-handbook](https://github.com/jamiebuilds/babel-handbook) - :blue\_book: A guided handbook on how to use Babel and how to create plugins for Babel.
-
-*   [antfu/discussions](https://github.com/antfu/discussions) - Discussion channel for live streams
 
 ## Python
 
