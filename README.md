@@ -17,6 +17,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
@@ -27,7 +28,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [Objective-C](#objective-c)
 *   [Vue](#vue)
 *   [C](#c)
-*   [Java](#java)
 *   [Markdown](#markdown)
 *   [JSON](#json)
 *   [Zig](#zig)
@@ -37,6 +37,14 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [Ruby](#ruby)
 *   [Dart](#dart)
 *   [Thanks](#thanks)
+
+## Java
+
+*   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
+
+*   [mondaylab/android.financial.management](https://github.com/mondaylab/android.financial.management) - 用android实现一个简易的个人记账App
+
+*   [liyupi/yu-auto-reply](https://github.com/liyupi/yu-auto-reply) - AI 自动回复工具，支持灵活配置多个平台的监控和回答。目前已支持知识星球自动回复、OpenAI（ChatGPT）自动回答
 
 ## miscellaneous
 
@@ -330,7 +338,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [Sunny-117/text-image](https://github.com/Sunny-117/text-image) - 🐛🐛🐛 text-image 可以将文字、图片、视频进行「文本化」，只需要通过简单的配置即可使用
 
-*   [Sunny-117/rc-design](https://github.com/Sunny-117/rc-design) - 🗃️ rc-design，是一款为 react 开发的组件库，为开发者提供更轻量、简洁的组件库选择。使用 tsx 编写逻辑，less 编写样式，dumi2 编写文档站，jest+ts-jest+react-testing-library 单元测试。
+*   [Sunny-117/rc-design](https://github.com/Sunny-117/rc-design) - 🗃️ rc-design is a component library developed for react, providing developers with a more lightweight and concise component library choice. Use tsx to write logic, less to write styles, dumi2 to write documentation sites, and jest+ts-jest+react-testing-library for unit testing.
 
 *   [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) - 🌍 All in one i18n extension for VS Code
 
@@ -718,8 +726,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 
-*   [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
-
 ## Python
 
 *   [doordiey/theoretical-basis](https://github.com/doordiey/theoretical-basis) - Basic knowledge of computer
@@ -831,12 +837,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 ## C
 
 *   [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
-
-## Java
-
-*   [mondaylab/android.financial.management](https://github.com/mondaylab/android.financial.management) - 用android实现一个简易的个人记账App
-
-*   [liyupi/yu-auto-reply](https://github.com/liyupi/yu-auto-reply) - AI 自动回复工具，支持灵活配置多个平台的监控和回答。目前已支持知识星球自动回复、OpenAI（ChatGPT）自动回答
 
 ## Markdown
 
