@@ -17,9 +17,9 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
-*   [JavaScript](#javascript)
 *   [Vue](#vue)
 *   [TypeScript](#typescript)
 *   [Java](#java)
@@ -39,175 +39,9 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [CSS](#css)
 *   [Thanks](#thanks)
 
-## Python
-
-*   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
-
-*   [doordiey/theoretical-basis](https://github.com/doordiey/theoretical-basis) - Basic knowledge of computer
-
-*   [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
-
-*   [kajweb/dict](https://github.com/kajweb/dict) - 英语字典 英语词库 字典词库 四级单词 六级单词 考研单词 雅思 托福 SAT GMAT TOEFL GRE
-
-*   [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台
-
-*   [binary-husky/gpt\_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
-
-*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-
-*   [johnlinp/pdf-to-markdown](https://github.com/johnlinp/pdf-to-markdown) - Convert PDF files into markdown files
-
-*   [shengxinjing/it-roadmap](https://github.com/shengxinjing/it-roadmap) - 大圣的前端学习路线图
-
-*   [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
-
-## miscellaneous
-
-*   [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
-
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-
-*   [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) - 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
-
-*   [promises-aplus/promises-spec](https://github.com/promises-aplus/promises-spec) - An open standard for sound, interoperable JavaScript promises—by implementers, for implementers.
-
-*   [message163/interview](https://github.com/message163/interview) - 前端面试题汇总资深
-
-*   [yygmind/blog](https://github.com/yygmind/blog) - 我是木易杨，公众号「高级前端进阶」作者，跟着我每周重点攻克一个前端面试重难点。接下来让我带你走进高级前端的世界，在进阶的路上，共勉！
-
-*   [linjunc/react-study](https://github.com/linjunc/react-study) - 🎉 Here are all the high-quality React articles, a React repository worth learning
-
-*   [luban-agi/Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) - Curated tutorials and resources for Large Language Models, AI Painting, and more.
-
-*   [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
-
-*   [crisxuan/bestJavaer](https://github.com/crisxuan/bestJavaer) - 这是一个成为更好的Java程序员的系列教程
-
-*   [rd2coding/Road2Coding](https://github.com/rd2coding/Road2Coding) - 编程之路
-
-*   [CavsZhouyou/Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook) - :ant:前端面试复习笔记
-
-*   [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
-
-*   [pwstrick/daily](https://github.com/pwstrick/daily) - 一份搜集的前端面试题目清单、面试相关以及各类学习的资料（不局限于前端）
-
-*   [puxiao/react-hook-tutorial](https://github.com/puxiao/react-hook-tutorial) - React Hook 系列教程，学习和探索Hooks世界。
-
-*   [karminski/write-a-programming-language-in-450-lines](https://github.com/karminski/write-a-programming-language-in-450-lines) - 本教程教大家用 450 行 Go 代码实现一个简单的编程语言
-
-*   [woai3c/introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering) - 一本小书《带你入门前端工程》
-
-*   [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
-
-*   [li-jia-nan/Learning-notes](https://github.com/li-jia-nan/Learning-notes) - 前端学习笔记 & 踩坑日记 & 冷知识，记录一些工作中遇到的问题，长期更新
-
-*   [WangYuBo/anti-fleece-the-flock](https://github.com/WangYuBo/anti-fleece-the-flock) - 韭菜的反击：韭菜反割互助指南。
-
-*   [NLRX-WJC/Learn-Vue-Source-Code](https://github.com/NLRX-WJC/Learn-Vue-Source-Code) - 在线阅读：https://nlrx-wjc.github.io/Learn-Vue-Source-Code/
-
-*   [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
-
-*   [mondaylab/vue3-api](https://github.com/mondaylab/vue3-api) - 整理vue3API相关思维导图~
-
-*   [Richard-Zhang1019/git-tech-student](https://github.com/Richard-Zhang1019/git-tech-student) - for tech student example
-
-*   [huaize2020/awesome-react](https://github.com/huaize2020/awesome-react) - React 资源大全中文版。An awesome React packages and resources
-
-*   [hax/heshijun\_v\_360](https://github.com/hax/heshijun_v_360) - 贺师俊与360的劳动争议诉讼
-
-*   [sewain5780/ShareBooks](https://github.com/sewain5780/ShareBooks) - ShareBooks
-
-*   [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
-
-*   [webpack-china/awesome-webpack-cn](https://github.com/webpack-china/awesome-webpack-cn) - [印记中文](https://docschina.org/) - webpack 优秀中文文章
-
-*   [reactjs/rfcs](https://github.com/reactjs/rfcs) - RFCs for changes to React
-
-*   [2002XiaoYu/Latest-front-end-Notes](https://github.com/2002XiaoYu/Latest-front-end-Notes) - 高质量编程百万字笔记之路--前后端
-
-*   [i5ting/fe-2022-in-china](https://github.com/i5ting/fe-2022-in-china) - 2022大前端总结和2023就业分析
-
-*   [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
-
-*   [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
-
-*   [brickspert/blog](https://github.com/brickspert/blog) - 个人技术博客，博文写在 Issues 里。
-
-*   [FrontEndGitHub/FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub) - :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、数据结构与算法、开发工具、求职面试等）
-
-*   [syaning/awesome-frontend](https://github.com/syaning/awesome-frontend) - Awesome frontend, also my collections.
-
-*   [CSXMX/books](https://github.com/CSXMX/books) - 从网上收集的一些主要与前端相关的pdf，有其他的学习资料也可以分享给我，开源精神！
-
-*   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
-
-*   [semlinker/awesome-micro-frontends](https://github.com/semlinker/awesome-micro-frontends) - An Awesome list of posts, videos and tutorials on Micro Frontends
-
-*   [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业
-
-*   [easychen/one-person-businesses-methodology](https://github.com/easychen/one-person-businesses-methodology) - 一人公司方法论
-
-*   [eryajf/awesome-stars-eryajf](https://github.com/eryajf/awesome-stars-eryajf) - 🤩 我的star列表，每天凌晨自动更新
-
-*   [yanyue404/blog](https://github.com/yanyue404/blog) - Just blog and not just blog.
-
-*   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
-
-*   [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
-
-*   [murongg/awesome-vue-composables](https://github.com/murongg/awesome-vue-composables) - 👉 Awesome Vue Composables Resources
-
-*   [mqyqingfeng/learn-typescript](https://github.com/mqyqingfeng/learn-typescript) - 可能是中国最好的 TypeScript 从入门到进阶系统教程
-
-*   [shengxinjing/fullstack-challenges](https://github.com/shengxinjing/fullstack-challenges) - 前端挑战题解
-
-*   [vvscode/js--interview-questions](https://github.com/vvscode/js--interview-questions) - :grey\_question::question::grey\_question: Notes from technical (javascript) interviews. Tasks and quiz for different topics to discuss on interview / check self skills in javascript
-
-*   [InterviewMap/CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
-
-*   [OXygenMoon/OperatingSystemInDepth](https://github.com/OXygenMoon/OperatingSystemInDepth) - 视频学习 - 深入理解操作系统
-
-*   [FrankFang/best-chinese-front-end-blogs](https://github.com/FrankFang/best-chinese-front-end-blogs) - 收集优质的中文前端博客
-
-*   [jamiebuilds/babel-handbook](https://github.com/jamiebuilds/babel-handbook) - :blue\_book: A guided handbook on how to use Babel and how to create plugins for Babel.
-
-*   [antfu/discussions](https://github.com/antfu/discussions) - Discussion channel for live streams
-
-*   [resumejob/awesome-resume](https://github.com/resumejob/awesome-resume) - Resume，Resume Templates，程序员简历例句，简历模版，
-
-*   [itdevbooks/pdf](https://github.com/itdevbooks/pdf) - 编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类
-
-*   [akira-cn/moyu](https://github.com/akira-cn/moyu) - Github 摸鱼大全！
-
-*   [cuixiaorui/study-every-day](https://github.com/cuixiaorui/study-every-day) - stduy programming skills of javascript every day
-
-*   [vue3/vue3-News](https://github.com/vue3/vue3-News) - 🔥 Find the latest breaking Vue3、Vue CLI 3+ & Vite  News. (2021/2022/2023)
-
-*   [TonnnnnnyLiu/Books](https://github.com/TonnnnnnyLiu/Books) -
-
-*   [worldzhao/blog](https://github.com/worldzhao/blog) - 个人博客，内容在 issue 里。
-
-*   [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions
-
-*   [forthespada/programmer-resume](https://github.com/forthespada/programmer-resume) - 程序员简历，看完1000多份简历后，终于明白一份合格的计算机专业程序员简历应该是怎样的了，不需要花里胡哨，简简单单大大方方就足够了，可以star + folk后修改为自己的。
-
-*   [forthespada/CampusShame](https://github.com/forthespada/CampusShame) - 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！
-
-*   [cuixiaorui/daily-share](https://github.com/cuixiaorui/daily-share) - 每日分享有趣、有用，最新的信息 FOR EVERY CODER
-
-*   [vuejs/rfcs](https://github.com/vuejs/rfcs) - RFCs for substantial changes / feature additions to Vue core
-
-*   [91Merry/Going](https://github.com/91Merry/Going) - 91Merry
-
-*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-
-*   [lihongxun945/myblog](https://github.com/lihongxun945/myblog) - 言川的博客-前端工程师的笔记
-
-*   [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
-
-*   [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)
-
 ## JavaScript
+
+*   [Sunny-117/mini-anything](https://github.com/Sunny-117/mini-anything) - 🚀 Explore the source code of the front-end library and implement a super mini version
 
 *   [issgy/win11React](https://github.com/issgy/win11React) - Windows 11 in React 💻🌈⚡
 
@@ -272,8 +106,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 
 *   [Coiggahou2002/Vue-Source-Analysis](https://github.com/Coiggahou2002/Vue-Source-Analysis) - 以添加注释方式解读 Vue 2.6.14 源码
-
-*   [Sunny-117/mini-anything](https://github.com/Sunny-117/mini-anything) - 🚀 Explore the source code of the front-end library and implement a super mini version
 
 *   [tencent-cdc/formast](https://github.com/tencent-cdc/formast) - 复杂业务场景下的企业级动态表单框架
 
@@ -510,6 +342,174 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [Alex660/leetcode](https://github.com/Alex660/leetcode) - leetcode 逻辑顺序刷题，多解法 「长期更新中」
 
 *   [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+
+## Python
+
+*   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
+
+*   [doordiey/theoretical-basis](https://github.com/doordiey/theoretical-basis) - Basic knowledge of computer
+
+*   [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
+
+*   [kajweb/dict](https://github.com/kajweb/dict) - 英语字典 英语词库 字典词库 四级单词 六级单词 考研单词 雅思 托福 SAT GMAT TOEFL GRE
+
+*   [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台
+
+*   [binary-husky/gpt\_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
+
+*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+
+*   [johnlinp/pdf-to-markdown](https://github.com/johnlinp/pdf-to-markdown) - Convert PDF files into markdown files
+
+*   [shengxinjing/it-roadmap](https://github.com/shengxinjing/it-roadmap) - 大圣的前端学习路线图
+
+*   [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
+
+## miscellaneous
+
+*   [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
+
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+
+*   [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) - 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
+
+*   [promises-aplus/promises-spec](https://github.com/promises-aplus/promises-spec) - An open standard for sound, interoperable JavaScript promises—by implementers, for implementers.
+
+*   [message163/interview](https://github.com/message163/interview) - 前端面试题汇总资深
+
+*   [yygmind/blog](https://github.com/yygmind/blog) - 我是木易杨，公众号「高级前端进阶」作者，跟着我每周重点攻克一个前端面试重难点。接下来让我带你走进高级前端的世界，在进阶的路上，共勉！
+
+*   [linjunc/react-study](https://github.com/linjunc/react-study) - 🎉 Here are all the high-quality React articles, a React repository worth learning
+
+*   [luban-agi/Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) - Curated tutorials and resources for Large Language Models, AI Painting, and more.
+
+*   [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
+
+*   [crisxuan/bestJavaer](https://github.com/crisxuan/bestJavaer) - 这是一个成为更好的Java程序员的系列教程
+
+*   [rd2coding/Road2Coding](https://github.com/rd2coding/Road2Coding) - 编程之路
+
+*   [CavsZhouyou/Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook) - :ant:前端面试复习笔记
+
+*   [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
+
+*   [pwstrick/daily](https://github.com/pwstrick/daily) - 一份搜集的前端面试题目清单、面试相关以及各类学习的资料（不局限于前端）
+
+*   [puxiao/react-hook-tutorial](https://github.com/puxiao/react-hook-tutorial) - React Hook 系列教程，学习和探索Hooks世界。
+
+*   [karminski/write-a-programming-language-in-450-lines](https://github.com/karminski/write-a-programming-language-in-450-lines) - 本教程教大家用 450 行 Go 代码实现一个简单的编程语言
+
+*   [woai3c/introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering) - 一本小书《带你入门前端工程》
+
+*   [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
+
+*   [li-jia-nan/Learning-notes](https://github.com/li-jia-nan/Learning-notes) - 前端学习笔记 & 踩坑日记 & 冷知识，记录一些工作中遇到的问题，长期更新
+
+*   [WangYuBo/anti-fleece-the-flock](https://github.com/WangYuBo/anti-fleece-the-flock) - 韭菜的反击：韭菜反割互助指南。
+
+*   [NLRX-WJC/Learn-Vue-Source-Code](https://github.com/NLRX-WJC/Learn-Vue-Source-Code) - 在线阅读：https://nlrx-wjc.github.io/Learn-Vue-Source-Code/
+
+*   [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
+
+*   [mondaylab/vue3-api](https://github.com/mondaylab/vue3-api) - 整理vue3API相关思维导图~
+
+*   [Richard-Zhang1019/git-tech-student](https://github.com/Richard-Zhang1019/git-tech-student) - for tech student example
+
+*   [huaize2020/awesome-react](https://github.com/huaize2020/awesome-react) - React 资源大全中文版。An awesome React packages and resources
+
+*   [hax/heshijun\_v\_360](https://github.com/hax/heshijun_v_360) - 贺师俊与360的劳动争议诉讼
+
+*   [sewain5780/ShareBooks](https://github.com/sewain5780/ShareBooks) - ShareBooks
+
+*   [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
+
+*   [webpack-china/awesome-webpack-cn](https://github.com/webpack-china/awesome-webpack-cn) - [印记中文](https://docschina.org/) - webpack 优秀中文文章
+
+*   [reactjs/rfcs](https://github.com/reactjs/rfcs) - RFCs for changes to React
+
+*   [2002XiaoYu/Latest-front-end-Notes](https://github.com/2002XiaoYu/Latest-front-end-Notes) - 高质量编程百万字笔记之路--前后端
+
+*   [i5ting/fe-2022-in-china](https://github.com/i5ting/fe-2022-in-china) - 2022大前端总结和2023就业分析
+
+*   [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
+
+*   [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
+
+*   [brickspert/blog](https://github.com/brickspert/blog) - 个人技术博客，博文写在 Issues 里。
+
+*   [FrontEndGitHub/FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub) - :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、数据结构与算法、开发工具、求职面试等）
+
+*   [syaning/awesome-frontend](https://github.com/syaning/awesome-frontend) - Awesome frontend, also my collections.
+
+*   [CSXMX/books](https://github.com/CSXMX/books) - 从网上收集的一些主要与前端相关的pdf，有其他的学习资料也可以分享给我，开源精神！
+
+*   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
+
+*   [semlinker/awesome-micro-frontends](https://github.com/semlinker/awesome-micro-frontends) - An Awesome list of posts, videos and tutorials on Micro Frontends
+
+*   [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业
+
+*   [easychen/one-person-businesses-methodology](https://github.com/easychen/one-person-businesses-methodology) - 一人公司方法论
+
+*   [eryajf/awesome-stars-eryajf](https://github.com/eryajf/awesome-stars-eryajf) - 🤩 我的star列表，每天凌晨自动更新
+
+*   [yanyue404/blog](https://github.com/yanyue404/blog) - Just blog and not just blog.
+
+*   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
+
+*   [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
+
+*   [murongg/awesome-vue-composables](https://github.com/murongg/awesome-vue-composables) - 👉 Awesome Vue Composables Resources
+
+*   [mqyqingfeng/learn-typescript](https://github.com/mqyqingfeng/learn-typescript) - 可能是中国最好的 TypeScript 从入门到进阶系统教程
+
+*   [shengxinjing/fullstack-challenges](https://github.com/shengxinjing/fullstack-challenges) - 前端挑战题解
+
+*   [vvscode/js--interview-questions](https://github.com/vvscode/js--interview-questions) - :grey\_question::question::grey\_question: Notes from technical (javascript) interviews. Tasks and quiz for different topics to discuss on interview / check self skills in javascript
+
+*   [InterviewMap/CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
+
+*   [OXygenMoon/OperatingSystemInDepth](https://github.com/OXygenMoon/OperatingSystemInDepth) - 视频学习 - 深入理解操作系统
+
+*   [FrankFang/best-chinese-front-end-blogs](https://github.com/FrankFang/best-chinese-front-end-blogs) - 收集优质的中文前端博客
+
+*   [jamiebuilds/babel-handbook](https://github.com/jamiebuilds/babel-handbook) - :blue\_book: A guided handbook on how to use Babel and how to create plugins for Babel.
+
+*   [antfu/discussions](https://github.com/antfu/discussions) - Discussion channel for live streams
+
+*   [resumejob/awesome-resume](https://github.com/resumejob/awesome-resume) - Resume，Resume Templates，程序员简历例句，简历模版，
+
+*   [itdevbooks/pdf](https://github.com/itdevbooks/pdf) - 编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类
+
+*   [akira-cn/moyu](https://github.com/akira-cn/moyu) - Github 摸鱼大全！
+
+*   [cuixiaorui/study-every-day](https://github.com/cuixiaorui/study-every-day) - stduy programming skills of javascript every day
+
+*   [vue3/vue3-News](https://github.com/vue3/vue3-News) - 🔥 Find the latest breaking Vue3、Vue CLI 3+ & Vite  News. (2021/2022/2023)
+
+*   [TonnnnnnyLiu/Books](https://github.com/TonnnnnnyLiu/Books) -
+
+*   [worldzhao/blog](https://github.com/worldzhao/blog) - 个人博客，内容在 issue 里。
+
+*   [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions
+
+*   [forthespada/programmer-resume](https://github.com/forthespada/programmer-resume) - 程序员简历，看完1000多份简历后，终于明白一份合格的计算机专业程序员简历应该是怎样的了，不需要花里胡哨，简简单单大大方方就足够了，可以star + folk后修改为自己的。
+
+*   [forthespada/CampusShame](https://github.com/forthespada/CampusShame) - 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！
+
+*   [cuixiaorui/daily-share](https://github.com/cuixiaorui/daily-share) - 每日分享有趣、有用，最新的信息 FOR EVERY CODER
+
+*   [vuejs/rfcs](https://github.com/vuejs/rfcs) - RFCs for substantial changes / feature additions to Vue core
+
+*   [91Merry/Going](https://github.com/91Merry/Going) - 91Merry
+
+*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+
+*   [lihongxun945/myblog](https://github.com/lihongxun945/myblog) - 言川的博客-前端工程师的笔记
+
+*   [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
+
+*   [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)
 
 ## Vue
 
@@ -957,7 +957,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 
-*   [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using web components. mdui 是使用 Web Components 实现 Material You ( Material Design 3 ) 设计规范的前端组件库
+*   [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using Web Components. mdui 是使用 Web Components 实现 Material You ( Material Design 3 ) 设计规范的前端组件库
 
 *   [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 
