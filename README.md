@@ -17,6 +17,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 ## Table of Contents
 
+*   [Ruby](#ruby)
 *   [JavaScript](#javascript)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
@@ -34,10 +35,15 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [MDX](#mdx)
 *   [Shell](#shell)
 *   [Dockerfile](#dockerfile)
-*   [Ruby](#ruby)
 *   [Dart](#dart)
 *   [CSS](#css)
 *   [Thanks](#thanks)
+
+## Ruby
+
+*   [cunkai/HomebrewCN](https://github.com/cunkai/HomebrewCN) - Homebrew 国内安装脚本
+
+*   [2016rshah/githubchart-api](https://github.com/2016rshah/githubchart-api) - :date: Embed github contributions chart as image
 
 ## JavaScript
 
@@ -561,8 +567,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [liyupi/sql-generator](https://github.com/liyupi/sql-generator) - 🔨 用 JSON 来生成结构化的 SQL 语句，基于 Vue3 + TypeScript + Vite + Ant Design + MonacoEditor 实现，项目简单（重逻辑轻页面）、适合练手~
 
-*   [jekip/naive-ui-admin](https://github.com/jekip/naive-ui-admin) - Naive Ui Admin 是一个基于 vue3,vite2,TypeScript 的中后台解决方案，它使用了最新的前端技术栈，并提炼了典型的业务模型，页面，包括二次封装组件、动态菜单、权限校验、粒子化权限控制等功能，它可以帮助你快速搭建企业级中后台项目，相信不管是从新技术使用还是其他方面，都能帮助到你，持续更新中。
-
 ## TypeScript
 
 *   [DevCloudFE/vue-devui](https://github.com/DevCloudFE/vue-devui) - UI components based on Vue3 and DevUI Design
@@ -783,7 +787,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [xdlrt/mds](https://github.com/xdlrt/mds) - 一款高度简洁的微信公众号 Markdown 编辑器! 🎉
 
-*   [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
+*   [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
 
 *   [antfu/vscode-goto-alias](https://github.com/antfu/vscode-goto-alias) - Go to Definition following alias redirections.
 
@@ -1064,10 +1068,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 ## Dockerfile
 
 *   [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-
-## Ruby
-
-*   [2016rshah/githubchart-api](https://github.com/2016rshah/githubchart-api) - :date: Embed github contributions chart as image
 
 ## Dart
 
