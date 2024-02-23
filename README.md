@@ -871,7 +871,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms) - :books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book
 
-*   [buqiyuan/vue3-antdv-admin](https://github.com/buqiyuan/vue3-antdv-admin) - 基于 vite5.x/vue-cli5.x + vue3.x + ant-design-vue4.x + typescript hooks 的基础后台管理系统模板  RBAC的权限系统, JSON Schema动态表单,动态表格,漂亮锁屏界面
+*   [buqiyuan/vue3-antdv-admin](https://github.com/buqiyuan/vue3-antdv-admin) - 基于 vite5.x + vue3.x + ant-design-vue4.x + typescript hooks 的基础后台管理系统模板  RBAC的权限系统, JSON Schema动态表单,动态表格,漂亮锁屏界面
 
 *   [vmejs/vmejs](https://github.com/vmejs/vmejs) - 一个疯狂的开源前端工具库   A crazy tool library, So may you v me 50？
 
