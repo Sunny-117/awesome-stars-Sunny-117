@@ -671,7 +671,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [SnowingFox/douyin-emoji](https://github.com/SnowingFox/douyin-emoji) - 下载抖音表情包
 
-*   [xun082/online-cooperative-edit](https://github.com/xun082/online-cooperative-edit) - 一个基于 webrtc 实现的在线协同编辑器
+*   [xun082/online-edit](https://github.com/xun082/online-edit) - 在线代码编辑器
 
 *   [openai/openai-node](https://github.com/openai/openai-node) - The official Node.js / Typescript library for the OpenAI API
 
