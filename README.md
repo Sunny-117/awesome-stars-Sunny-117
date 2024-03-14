@@ -97,7 +97,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [aaron-bond/better-comments](https://github.com/aaron-bond/better-comments) -
 
-*   [WindrunnerMax/FileTransfer](https://github.com/WindrunnerMax/FileTransfer) - P2P File Transfer Base On WebRTC/WebSocket
+*   [WindrunnerMax/FileTransfer](https://github.com/WindrunnerMax/FileTransfer) - P2P 局域网文件传输
 
 *   [DrssXpro/fanosy](https://github.com/DrssXpro/fanosy) - 一个个人学习的业务组件库
 
