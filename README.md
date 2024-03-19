@@ -17,8 +17,8 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 ## Table of Contents
 
-*   [TypeScript](#typescript)
 *   [Rust](#rust)
+*   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [Ruby](#ruby)
 *   [JavaScript](#javascript)
@@ -38,6 +38,22 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [Dart](#dart)
 *   [CSS](#css)
 *   [Thanks](#thanks)
+
+## Rust
+
+*   [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
+
+*   [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript with Rollup-compatible API.
+
+*   [ZhangHanDong/inviting-rust](https://github.com/ZhangHanDong/inviting-rust) - Rust实战视频课程代码示例
+
+*   [juri-web/juri](https://github.com/juri-web/juri) - Web Framework
+
+*   [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
+
+*   [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
+
+*   [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<\<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book
 
 ## TypeScript
 
@@ -438,20 +454,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using Web Components.
 
 *   [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
-
-## Rust
-
-*   [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript with Rollup-compatible API.
-
-*   [ZhangHanDong/inviting-rust](https://github.com/ZhangHanDong/inviting-rust) - Rust实战视频课程代码示例
-
-*   [juri-web/juri](https://github.com/juri-web/juri) - Web Framework
-
-*   [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
-
-*   [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
-
-*   [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<\<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book
 
 ## miscellaneous
 
@@ -906,8 +908,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [lzuntalented/lz-h5-edit](https://github.com/lzuntalented/lz-h5-edit) - 随心秀(react版h5微场景编辑器)，一款类似【易企秀】【兔展】的H5微场景编辑器
 
 *   [YMFE/yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
-
-*   [Alex660/leetcode](https://github.com/Alex660/leetcode) - leetcode 逻辑顺序刷题，多解法 「长期更新中」
 
 ## Python
 
