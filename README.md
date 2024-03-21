@@ -651,7 +651,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [mishoo/UglifyJS](https://github.com/mishoo/UglifyJS) -  JavaScript parser / mangler / compressor / beautifier toolkit
 
-*   [xun082/create-neat](https://github.com/xun082/create-neat) - 🚀🚀🚀 基于 pnpm+monorepo 开发的前端脚手架,旨在为用户快速初始化项目
+*   [xun082/create-neat](https://github.com/xun082/create-neat) - 🚀🚀🚀 Developed a front-end scaffold based on PNPM and Turborepo, aimed at quickly creating various types of projects for users.
 
 *   [bilibili/flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
 
