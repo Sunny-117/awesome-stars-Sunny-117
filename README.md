@@ -22,7 +22,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
-*   [Ruby](#ruby)
+*   [Shell](#shell)
 *   [JavaScript](#javascript)
 *   [Python](#python)
 *   [Java](#java)
@@ -33,8 +33,8 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [JSON](#json)
 *   [Zig](#zig)
 *   [MDX](#mdx)
-*   [Shell](#shell)
 *   [Dockerfile](#dockerfile)
+*   [Ruby](#ruby)
 *   [Dart](#dart)
 *   [CSS](#css)
 *   [Thanks](#thanks)
@@ -687,11 +687,15 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [lihongxun945/myblog](https://github.com/lihongxun945/myblog) - 言川的博客-前端工程师的笔记
 
-## Ruby
+## Shell
 
 *   [cunkai/HomebrewCN](https://github.com/cunkai/HomebrewCN) - Homebrew 国内安装脚本
 
-*   [2016rshah/githubchart-api](https://github.com/2016rshah/githubchart-api) - :date: Embed github contributions chart as image
+*   [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see\_no\_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
+
+*   [Sunny-117/blog](https://github.com/Sunny-117/blog) - ✨✨✨ 前端历险记
+
+*   [NodeOS/NodeOS](https://github.com/NodeOS/NodeOS) - Lightweight operating system using Node.js as userspace
 
 ## JavaScript
 
@@ -1057,17 +1061,13 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 
-## Shell
-
-*   [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see\_no\_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
-
-*   [Sunny-117/blog](https://github.com/Sunny-117/blog) - ✨✨✨ 前端历险记
-
-*   [NodeOS/NodeOS](https://github.com/NodeOS/NodeOS) - Lightweight operating system using Node.js as userspace
-
 ## Dockerfile
 
 *   [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+
+## Ruby
+
+*   [2016rshah/githubchart-api](https://github.com/2016rshah/githubchart-api) - :date: Embed github contributions chart as image
 
 ## Dart
 
