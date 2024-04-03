@@ -519,7 +519,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [Sunny-117/tiny-react](https://github.com/Sunny-117/tiny-react) - 🌱 The closest implementation to the React source code
 
-*   [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+*   [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 
 *   [ecomfe/reskript](https://github.com/ecomfe/reskript) - 一个帮助开发React应用的全功能命令行套件
 
