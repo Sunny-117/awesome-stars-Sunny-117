@@ -501,6 +501,8 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [BetaSu/big-react](https://github.com/BetaSu/big-react) - 跟着我，从0实现React18
 
+*   [shepherd-pro/shepherd](https://github.com/shepherd-pro/shepherd) - Guide your users through a tour of your app
+
 *   [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 
 *   [StructureBuilder/react-keep-alive](https://github.com/StructureBuilder/react-keep-alive) - A component that maintains component state and avoids repeated re-rendering.
@@ -854,8 +856,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [ThatGuySam/doesitarm](https://github.com/ThatGuySam/doesitarm) - 🦾 A list of reported app support for Apple Silicon as well as Apple M2 and M1 Ultra Macs
 
 *   [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
-
-*   [shepherd-pro/shepherd](https://github.com/shepherd-pro/shepherd) - Guide your users through a tour of your app
 
 *   [Power-kxLee/vue-print-nb](https://github.com/Power-kxLee/vue-print-nb) - Vue plug-in, print! Good!
 
