@@ -41,6 +41,8 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 ## TypeScript
 
+*   [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web) - Debug remotely and easily like chrome devtools.
+
 *   [vbenjs/vite-plugin-mock](https://github.com/vbenjs/vite-plugin-mock) - A mock plugin for vite.use mockjs.
 
 *   [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm) - Learning English through the method of constructing sentences with conjunctions
@@ -168,6 +170,8 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [haixiangyan/my-react-infinite-scroller](https://github.com/haixiangyan/my-react-infinite-scroller) - 手把手实现基于 React 的无限滚动
 
 *   [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
+
+*   [antfu-collective/vite-plugin-inspect](https://github.com/antfu-collective/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins
 
 *   [SuYxh/ts-axios-docs](https://github.com/SuYxh/ts-axios-docs) - TS 从零实现 axios文档
 
@@ -399,7 +403,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
 
-*   [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
+*   [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 
 *   [antfu/vue-minesweeper](https://github.com/antfu/vue-minesweeper) - A tiny minesweeper clone in Vue 3
 
@@ -933,8 +937,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [feedox/alt-gpt](https://github.com/feedox/alt-gpt) - Playground for developing ChatGPT plugins
 
-*   [antfu/vite-plugin-inspect](https://github.com/antfu/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins
-
 *   [Sunny-117/network-speed-js](https://github.com/Sunny-117/network-speed-js) - A small tool for testing network speed. It also has the ability to test internal and external networks.
 
 *   [widcardw/D4nm4ku](https://github.com/widcardw/D4nm4ku) - 使用 Tauri 写一个弹幕姬（已停止更新，或许会在几年后重写）
@@ -972,8 +974,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [DiF1202/win11\_vue](https://github.com/DiF1202/win11_vue) - 此项目用于阿里巴巴训练生计划与团队成员一起开发的项目。
 
 *   [konglingwen94/vue-bytedanceJob](https://github.com/konglingwen94/vue-bytedanceJob) - Vue仿写字节跳动招聘网站的单页面应用，仅作为学习使用。
-
-*   [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
 
 ## HTML
 
