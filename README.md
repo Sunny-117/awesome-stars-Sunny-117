@@ -239,8 +239,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [scopsy/await-to-js](https://github.com/scopsy/await-to-js) - Async await wrapper for easy error handling without try-catch
 
-*   [Sunny-117/text-image](https://github.com/Sunny-117/text-image) - 🐛🐛🐛 text-image 可以将文字、图片、视频进行「文本化」，只需要通过简单的配置即可使用
-
 *   [Sunny-117/rc-design](https://github.com/Sunny-117/rc-design) - 🗃️ rc-design is a component library developed for react, providing developers with a more lightweight and concise component library choice. Use tsx to write logic, less to write styles, dumi2 to write documentation sites, and jest+ts-jest+react-testing-library for unit testing.
 
 *   [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) - 🌍 All in one i18n extension for VS Code
@@ -724,6 +722,8 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [Rich-Harris/magic-string](https://github.com/Rich-Harris/magic-string) - Manipulate strings like a wizard
 
 *   [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
+
+*   [Sunny-117/text-image](https://github.com/Sunny-117/text-image) - 🐛🐛🐛  Text image can "textify" text, images, and videos, and can be used with simple configuration
 
 *   [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
 
