@@ -17,6 +17,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 ## Table of Contents
 
+*   [Go](#go)
 *   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
@@ -26,7 +27,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [JavaScript](#javascript)
 *   [HTML](#html)
 *   [Java](#java)
-*   [Go](#go)
 *   [Objective-C](#objective-c)
 *   [C](#c)
 *   [Markdown](#markdown)
@@ -38,7 +38,19 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [Dart](#dart)
 *   [Thanks](#thanks)
 
+## Go
+
+*   [aurorax-neo/free-gpt3.5-2api](https://github.com/aurorax-neo/free-gpt3.5-2api) - free chat gpt api
+
+*   [dairongpeng/algorithm-note](https://github.com/dairongpeng/algorithm-note) - 数组、链表、树、图、递归、DP、有序表等相关数据结构与算法的讲解及代码实现。
+
+*   [Sunny-117/im](https://github.com/Sunny-117/im) - Instant messaging system by golang
+
+*   [Toktik-Team/toktik](https://github.com/Toktik-Team/toktik) - ChatGPT integrated short video microservice application built with Kitex and Hertz. 第五届字节跳动青训营后端大作业“码如磐石奖（一等奖）”获奖项目
+
 ## Rust
+
+*   [wilsonzlin/minify-html](https://github.com/wilsonzlin/minify-html) - Extremely fast and smart HTML + JS + CSS minifier, available for Rust, Deno, Java, Node.js, Python, Ruby, and WASM
 
 *   [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
 
@@ -616,8 +628,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [Reaper622/DataStructure-Algorithm-TS](https://github.com/Reaper622/DataStructure-Algorithm-TS) - ⛩数据结构和算法解析 | LeetCode 解题 | 剑指 Offer 面试题集
 
-*   [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js® Website
-
 ## Shell
 
 *   [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
@@ -634,7 +644,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss) - :orange\_book: 根据 RSS 订阅源抓取最新前端技术文章，来源：Node Weekly、JavaScript Weekly、前端早读课、前端大全、前端之巅、前端之神、前端技术优选、程序员成长指北、iCSS前端趣闻、字节前端、前端精读评论、前端食堂、前端从进阶到入院、淘系前端团队、张鑫旭博客、前端里、凹凸实验室
 
-*   [zyronon/typing-word](https://github.com/zyronon/typing-word) - Memorizing words | Learn English | Typing words | 背单词 | 学习英语 | 练习文章
+*   [zyronon/typing-word](https://github.com/zyronon/typing-word) - 在网页上背单词
 
 *   [nihaojob/vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor) - 基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
 
@@ -681,8 +691,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [cuixiaorui/teach-vue-practice](https://github.com/cuixiaorui/teach-vue-practice) - vue practice for teach
 
 *   [DiF1202/win11\_vue](https://github.com/DiF1202/win11_vue) - 此项目用于阿里巴巴训练生计划与团队成员一起开发的项目。
-
-*   [konglingwen94/vue-bytedanceJob](https://github.com/konglingwen94/vue-bytedanceJob) - Vue仿写字节跳动招聘网站的单页面应用，仅作为学习使用。
 
 ## Python
 
@@ -1029,14 +1037,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [mondaylab/android.financial.management](https://github.com/mondaylab/android.financial.management) - 用android实现一个简易的个人记账App
 
 *   [liyupi/yu-auto-reply](https://github.com/liyupi/yu-auto-reply) - AI 自动回复工具，支持灵活配置多个平台的监控和回答。目前已支持知识星球自动回复、OpenAI（ChatGPT）自动回答
-
-## Go
-
-*   [dairongpeng/algorithm-note](https://github.com/dairongpeng/algorithm-note) - 数组、链表、树、图、递归、DP、有序表等相关数据结构与算法的讲解及代码实现。
-
-*   [Sunny-117/im](https://github.com/Sunny-117/im) - Instant messaging system by golang
-
-*   [Toktik-Team/toktik](https://github.com/Toktik-Team/toktik) - ChatGPT integrated short video microservice application built with Kitex and Hertz. 第五届字节跳动青训营后端大作业“码如磐石奖（一等奖）”获奖项目
 
 ## Objective-C
 
