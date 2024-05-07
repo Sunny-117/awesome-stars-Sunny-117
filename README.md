@@ -890,8 +890,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [lgwebdream/fe-code](https://github.com/lgwebdream/fe-code) - 🚗很很多前端同学，每日不仅要忙于内卷，还要忙于奔波在重复的业务逻辑期间，所以我们索性开发了这样一款工具，帮助大家可以直接根据接口生成 CURD 的全部代码，让大家生活多些快乐~
 
-*   [Sunny-117/mini-vite](https://github.com/Sunny-117/mini-vite) - 下一代的前端工具链 Vite 核心逻辑
-
 *   [bytedance/xgplayer](https://github.com/bytedance/xgplayer) - A HTML5 video player with a parser that saves traffic
 
 *   [XPoet/js-data-structure-and-algorithm](https://github.com/XPoet/js-data-structure-and-algorithm) - 从 0 到 1 学习 JavaScript 数据结构与算法
@@ -1019,6 +1017,8 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [Innei/Innei](https://github.com/Innei/Innei) -
 
 *   [kuitos/import-html-entry](https://github.com/kuitos/import-html-entry) - import html and take over the exports from the scripts
+
+*   [Sunny-117/mini-vite](https://github.com/Sunny-117/mini-vite) - 下一代的前端工具链 Vite 核心逻辑
 
 *   [RenektonChr/gitbook](https://github.com/RenektonChr/gitbook) - renekton的gitbook
 
