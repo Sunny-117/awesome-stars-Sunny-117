@@ -636,8 +636,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see\_no\_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 
-*   [Sunny-117/blog](https://github.com/Sunny-117/blog) - ✨✨✨ 前端历险记
-
 *   [NodeOS/NodeOS](https://github.com/NodeOS/NodeOS) - Lightweight operating system using Node.js as userspace
 
 ## Vue
@@ -671,6 +669,8 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [zhangyuang/fe-dev-playbook](https://github.com/zhangyuang/fe-dev-playbook) - 教你如何打造舒适、高效、时尚的前端开发环境
 
 *   [qiheizhiya/myBlog](https://github.com/qiheizhiya/myBlog) - 前端+后端。个人博客项目
+
+*   [Sunny-117/blog](https://github.com/Sunny-117/blog) - ✨✨✨ 前端历险记
 
 *   [antfu/100](https://github.com/antfu/100) - My 100-day project of exploring design, compform, and new things.
 
