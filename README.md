@@ -518,7 +518,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [Sunny-117/js-toochain-book](https://github.com/Sunny-117/js-toochain-book) - 掘金专栏 前端工具链 代码仓库 掘金专栏地址：https://juejin.cn/column/7287224080172302336
 
-*   [nuejs/nue](https://github.com/nuejs/nue) - The Content First Web Framework
+*   [nuejs/nue](https://github.com/nuejs/nue) - A content first web framework. Perfect for UX developers.
 
 *   [shengxinjing/fe-advanced-interview](https://github.com/shengxinjing/fe-advanced-interview) - 前端进阶面试指南
 
