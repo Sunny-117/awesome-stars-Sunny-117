@@ -354,8 +354,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [swanine/form-design](https://github.com/swanine/form-design) - 📃 低代码项目核心组件 - 表单设计
 
-*   [rosi-ui/rosi-ui](https://github.com/rosi-ui/rosi-ui) - 💫 一个仍处于构想中的Vue组件库
-
 *   [valcosmos/val-design](https://github.com/valcosmos/val-design) - ✨ A simple, lightweight UI component library for React.
 
 *   [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
@@ -997,6 +995,8 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 ## HTML
 
 *   [Quextion/JavaScriptWTF](https://github.com/Quextion/JavaScriptWTF) - JavaScript进阶实战
+
+*   [swanine/dev-tool](https://github.com/swanine/dev-tool) - 🚧 An undefined item
 
 *   [artiely/notes](https://github.com/artiely/notes) - javascript;css;html笔记 博客地址https://artiely.github.io
 
