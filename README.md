@@ -126,7 +126,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [DreamCats/online-interview](https://github.com/DreamCats/online-interview) - 在线面试助手：包含各个大厂的面经、算法题、知识点，并且小程序包含长按复制和点击图片预览功能，同时小程序继续优化和开发。
 
-*   [Sunny-117/BOSScript](https://github.com/Sunny-117/BOSScript) - boss直聘投递、关闭，一条龙服务的油猴脚本
+*   [Sunny-117/BOSScript](https://github.com/Sunny-117/BOSScript) - boss直聘一键批量投递，一条龙服务的油猴脚本
 
 *   [lefex/FE](https://github.com/lefex/FE) - 前端 100 天，帮助 10W 人入门并进阶前端。
 
@@ -436,7 +436,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [SnowingFox/douyin-emoji](https://github.com/SnowingFox/douyin-emoji) - 下载抖音表情包
 
-*   [xun082/online-edit](https://github.com/xun082/online-edit) - 在线代码编辑器
+*   [create-neat/online-edit-web](https://github.com/create-neat/online-edit-web) - 在线代码编辑器
 
 *   [openai/openai-node](https://github.com/openai/openai-node) - The official Node.js / Typescript library for the OpenAI API
 
