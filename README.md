@@ -27,6 +27,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [Python](#python)
 *   [HTML](#html)
 *   [Java](#java)
+*   [CSS](#css)
 *   [Objective-C](#objective-c)
 *   [C](#c)
 *   [Markdown](#markdown)
@@ -996,8 +997,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [Quextion/JavaScriptWTF](https://github.com/Quextion/JavaScriptWTF) - JavaScript进阶实战
 
-*   [swanine/dev-tool](https://github.com/swanine/dev-tool) - 🚧 An undefined item
-
 *   [artiely/notes](https://github.com/artiely/notes) - javascript;css;html笔记 博客地址https://artiely.github.io
 
 *   [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
@@ -1037,6 +1036,10 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [mondaylab/android.financial.management](https://github.com/mondaylab/android.financial.management) - 用android实现一个简易的个人记账App
 
 *   [liyupi/yu-auto-reply](https://github.com/liyupi/yu-auto-reply) - AI 自动回复工具，支持灵活配置多个平台的监控和回答。目前已支持知识星球自动回复、OpenAI（ChatGPT）自动回答
+
+## CSS
+
+*   [swanine/dev-tool](https://github.com/swanine/dev-tool) - 🚧 An undefined item
 
 ## Objective-C
 
