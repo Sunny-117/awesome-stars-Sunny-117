@@ -91,8 +91,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [mishoo/UglifyJS](https://github.com/mishoo/UglifyJS) -  JavaScript parser / mangler / compressor / beautifier toolkit
 
-*   [xun082/create-neat](https://github.com/xun082/create-neat) - 🚀🚀🚀 Developed a front-end scaffold based on PNPM and Turborepo, aimed at quickly creating various types of projects for users.
-
 *   [bilibili/flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
 
 *   [amelia-coding/coding](https://github.com/amelia-coding/coding) - 📒【前端面试】Leetcode算法、JS手写题（bind、apply、call、reduce、promise、emmiter...)、React、Vue框架、字节阿里等大厂面试代码实现✏️ ，有这一篇足够了，欢迎点赞和学习～🌆
@@ -438,6 +436,8 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [SnowingFox/douyin-emoji](https://github.com/SnowingFox/douyin-emoji) - 下载抖音表情包
 
 *   [create-neat/online-edit-web](https://github.com/create-neat/online-edit-web) - 在线代码编辑器
+
+*   [xun082/create-neat](https://github.com/xun082/create-neat) - 🚀🚀🚀 Developed a front-end scaffold based on PNPM and Turborepo, aimed at quickly creating various types of projects for users.
 
 *   [openai/openai-node](https://github.com/openai/openai-node) - The official Node.js / Typescript library for the OpenAI API
 
