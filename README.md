@@ -17,8 +17,8 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 ## Table of Contents
 
-*   [TypeScript](#typescript)
 *   [Rust](#rust)
+*   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [Go](#go)
@@ -38,6 +38,52 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [Ruby](#ruby)
 *   [Dart](#dart)
 *   [Thanks](#thanks)
+
+## Rust
+
+*   [umijs/mako](https://github.com/umijs/mako) - An extremely fast, production-grade web bundler based on Rust.
+
+*   [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
+
+*   [HerringtonDarkholme/vue-compiler](https://github.com/HerringtonDarkholme/vue-compiler) - Vue's template compiler reimplemented in Rust!
+
+*   [qinyuhang/my-rust-interpreter](https://github.com/qinyuhang/my-rust-interpreter) - 使用rust实现的解释器。参考《用Go语言自制解释器》
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+
+*   [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
+
+*   [wilsonzlin/minify-html](https://github.com/wilsonzlin/minify-html) - Extremely fast and smart HTML + JS + CSS minifier, available for Rust, Deno, Java, Node.js, Python, Ruby, and WASM
+
+*   [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
+
+*   [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
+
+*   [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
+
+*   [redox-os/orbtk](https://github.com/redox-os/orbtk) - The Rust UI-Toolkit.
+
+*   [rslint/rslint](https://github.com/rslint/rslint) - A  (WIP) Extremely fast JavaScript and TypeScript linter and Rust crate
+
+*   [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
+
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+
+*   [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
+
+*   [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript with Rollup-compatible API.
+
+*   [ZhangHanDong/inviting-rust](https://github.com/ZhangHanDong/inviting-rust) - Rust实战视频课程代码示例
+
+*   [juri-web/juri](https://github.com/juri-web/juri) - Web Framework
+
+*   [1739616529/nsv](https://github.com/1739616529/nsv) - 一个跨平台node版本管理工具
+
+*   [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
+
+*   [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
+
+*   [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<\<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book
 
 ## TypeScript
 
@@ -426,52 +472,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [antfu/vue-minesweeper](https://github.com/antfu/vue-minesweeper) - A tiny minesweeper clone in Vue 3
 
 *   [SnowingFox/unplugin-react-components](https://github.com/SnowingFox/unplugin-react-components) - 📲 On-demand components auto importing for React
-
-*   [lhp96/filter-ui](https://github.com/lhp96/filter-ui) - 基于Vite的组件库开发实践
-
-*   [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
-
-## Rust
-
-*   [HerringtonDarkholme/vue-compiler](https://github.com/HerringtonDarkholme/vue-compiler) - Vue's template compiler reimplemented in Rust!
-
-*   [qinyuhang/my-rust-interpreter](https://github.com/qinyuhang/my-rust-interpreter) - 使用rust实现的解释器。参考《用Go语言自制解释器》
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
-
-*   [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
-
-*   [wilsonzlin/minify-html](https://github.com/wilsonzlin/minify-html) - Extremely fast and smart HTML + JS + CSS minifier, available for Rust, Deno, Java, Node.js, Python, Ruby, and WASM
-
-*   [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
-
-*   [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
-
-*   [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
-
-*   [redox-os/orbtk](https://github.com/redox-os/orbtk) - The Rust UI-Toolkit.
-
-*   [rslint/rslint](https://github.com/rslint/rslint) - A  (WIP) Extremely fast JavaScript and TypeScript linter and Rust crate
-
-*   [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
-
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-
-*   [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-
-*   [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript with Rollup-compatible API.
-
-*   [ZhangHanDong/inviting-rust](https://github.com/ZhangHanDong/inviting-rust) - Rust实战视频课程代码示例
-
-*   [juri-web/juri](https://github.com/juri-web/juri) - Web Framework
-
-*   [1739616529/nsv](https://github.com/1739616529/nsv) - 一个跨平台node版本管理工具
-
-*   [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
-
-*   [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
-
-*   [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<\<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book
 
 ## miscellaneous
 
