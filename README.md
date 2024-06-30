@@ -995,7 +995,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 ## HTML
 
-*   [Quextion/JavaScriptWTF](https://github.com/Quextion/JavaScriptWTF) - JavaScript进阶实战
+*   [Quextion/JavaScriptWTF](https://github.com/Quextion/JavaScriptWTF) - whats' the js ?
 
 *   [artiely/notes](https://github.com/artiely/notes) - javascript;css;html笔记 博客地址https://artiely.github.io
 
