@@ -265,8 +265,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 
-*   [fz6m/console-ban](https://github.com/fz6m/console-ban) - Detect F12 open console, protect web static resources, support redirect, rewrite, callback strategies.
-
 *   [ShenQingchuan/tsc-err-dirs](https://github.com/ShenQingchuan/tsc-err-dirs) - Display tsc errors count on file tree.
 
 *   [antfu/vscode-theme-vitesse](https://github.com/antfu/vscode-theme-vitesse) - 🏕 Vitesse theme for VS Code
@@ -472,6 +470,8 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [antfu/vue-minesweeper](https://github.com/antfu/vue-minesweeper) - A tiny minesweeper clone in Vue 3
 
 *   [SnowingFox/unplugin-react-components](https://github.com/SnowingFox/unplugin-react-components) - 📲 On-demand components auto importing for React
+
+*   [lhp96/filter-ui](https://github.com/lhp96/filter-ui) - 基于Vite的组件库开发实践
 
 ## miscellaneous
 
