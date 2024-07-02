@@ -41,6 +41,8 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 ## Rust
 
+*   [Sunny-117/text-processor](https://github.com/Sunny-117/text-processor) - TextProcessor is a Rust project designed to process various text files. The project aims to provide a flexible and efficient solution for handling and transforming text files.
+
 *   [umijs/mako](https://github.com/umijs/mako) - An extremely fast, production-grade web bundler based on Rust.
 
 *   [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
@@ -112,6 +114,8 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web) - Debug remotely and easily like chrome devtools.
 
 *   [vbenjs/vite-plugin-mock](https://github.com/vbenjs/vite-plugin-mock) - A mock plugin for vite.use mockjs.
+
+*   [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm) - Learning English through the method of constructing sentences with conjunctions
 
 *   [Sunny-117/rka](https://github.com/Sunny-117/rka) - A component that maintains component state and avoids repeated re-rendering.
 
@@ -297,7 +301,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 
-*   [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, rolldown, and more
+*   [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, Rolldown, and more
 
 *   [vitegil/vitegil-sdk](https://github.com/vitegil/vitegil-sdk) - 💉 Tracker SDK for frontend web monitoring, bundled with Rollup
 
@@ -471,8 +475,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [SnowingFox/unplugin-react-components](https://github.com/SnowingFox/unplugin-react-components) - 📲 On-demand components auto importing for React
 
-*   [lhp96/filter-ui](https://github.com/lhp96/filter-ui) - 基于Vite的组件库开发实践
-
 ## miscellaneous
 
 *   [JSCIG/js-class-fields-chinese-discussion](https://github.com/JSCIG/js-class-fields-chinese-discussion) - JavaScript的『class fields』提案中文讨论
@@ -628,8 +630,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [ustbhuangyi/vue-analysis](https://github.com/ustbhuangyi/vue-analysis) - :thumbsup: Vue.js 源码分析
 
 *   [coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview) - 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
-
-*   [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm) - Learning English through the method of constructing sentences with conjunctions
 
 *   [Sunny-117/browser-core](https://github.com/Sunny-117/browser-core) - 实现最简浏览器渲染模型
 
