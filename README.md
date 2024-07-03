@@ -41,7 +41,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 ## Rust
 
-*   [Sunny-117/text-processor](https://github.com/Sunny-117/text-processor) - TextProcessor is a Rust project designed to process various text files. The project aims to provide a flexible and efficient solution for handling and transforming text files.
+*   [Sunny-117/text-processor](https://github.com/Sunny-117/text-processor) - Rust-based text processor provides flexible and efficient processing and conversion of text
 
 *   [umijs/mako](https://github.com/umijs/mako) - An extremely fast, production-grade web bundler based on Rust.
 
