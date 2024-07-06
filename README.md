@@ -29,11 +29,11 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [Java](#java)
 *   [CSS](#css)
 *   [Objective-C](#objective-c)
-*   [MDX](#mdx)
 *   [C](#c)
 *   [Markdown](#markdown)
 *   [JSON](#json)
 *   [Zig](#zig)
+*   [MDX](#mdx)
 *   [Dockerfile](#dockerfile)
 *   [Ruby](#ruby)
 *   [Dart](#dart)
@@ -216,6 +216,8 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [vue-vine/vue-vine](https://github.com/vue-vine/vue-vine) - Another style of writing Vue components.
 
 *   [SnowingFox/douyin-emoji](https://github.com/SnowingFox/douyin-emoji) - 下载抖音表情包
+
+*   [xun082/online-edit-web](https://github.com/xun082/online-edit-web) - 在线代码编辑器
 
 *   [xun082/create-neat](https://github.com/xun082/create-neat) - 🚀🚀🚀 Developed a front-end scaffold based on PNPM and Turborepo, aimed at quickly creating various types of projects for users.
 
@@ -1043,12 +1045,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
 
-## MDX
-
-*   [xun082/online-edit-web](https://github.com/xun082/online-edit-web) - 在线代码编辑器
-
-*   [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
-
 ## C
 
 *   [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
@@ -1066,6 +1062,10 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 ## Zig
 
 *   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+
+## MDX
+
+*   [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 
 ## Dockerfile
 
