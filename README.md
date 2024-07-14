@@ -18,6 +18,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 ## Table of Contents
 
 *   [Rust](#rust)
+*   [HTML](#html)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Go](#go)
@@ -25,7 +26,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [Vue](#vue)
 *   [Shell](#shell)
 *   [Python](#python)
-*   [HTML](#html)
 *   [Java](#java)
 *   [CSS](#css)
 *   [Objective-C](#objective-c)
@@ -40,6 +40,8 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [Thanks](#thanks)
 
 ## Rust
+
+*   [rustify-org/chat](https://github.com/rustify-org/chat) - Rust构建简易实时聊天系统
 
 *   [rustify-org/draw-wasm](https://github.com/rustify-org/draw-wasm) - 用Wasm实现一个画板
 
@@ -90,6 +92,44 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
 
 *   [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<\<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book
+
+## HTML
+
+*   [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
+
+*   [Quextion/JavaScriptWTF](https://github.com/Quextion/JavaScriptWTF) - whats' the js ?
+
+*   [artiely/notes](https://github.com/artiely/notes) - javascript;css;html笔记 博客地址https://artiely.github.io
+
+*   [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
+
+*   [57code/vue-interview](https://github.com/57code/vue-interview) - 总结前端面试中经典的vue相关题目，分析最佳回答策略。加面试群关注公众号”村长学前端“。
+
+*   [lgd8981289/book\_read\_quickly](https://github.com/lgd8981289/book_read_quickly) - 快读阅读一本书
+
+*   [upupming/frontend-learning-map](https://github.com/upupming/frontend-learning-map) - 前端学习路线（TODOs）
+
+*   [facebook/jsx](https://github.com/facebook/jsx) - The JSX specification is a XML-like syntax extension to ECMAScript.
+
+*   [Tyh2001/tyh2001](https://github.com/Tyh2001/tyh2001) - 👋 I am an independent developer,Now I work in Hangzhou.My favorite development framework is vue.js,I also created my own vue component library tyh-ui.You can also get to know me through blog and twitter.
+
+*   [yanyue404/blog](https://github.com/yanyue404/blog) - Just blog and not just blog.
+
+*   [Innei/Innei](https://github.com/Innei/Innei) -
+
+*   [kuitos/import-html-entry](https://github.com/kuitos/import-html-entry) - import html and take over the exports from the scripts
+
+*   [Sunny-117/mini-vite](https://github.com/Sunny-117/mini-vite) - 下一代的前端工具链 Vite 核心逻辑
+
+*   [RenektonChr/gitbook](https://github.com/RenektonChr/gitbook) - renekton的gitbook
+
+*   [HZFE/awesome-interview](https://github.com/HZFE/awesome-interview) - 剑指前端 Offer
+
+*   [ElemeFE/node-interview](https://github.com/ElemeFE/node-interview) - How to pass the Node.js interview of ElemeFE.
+
+*   [sindresorhus/screenfull](https://github.com/sindresorhus/screenfull) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
+
+*   [erdengk/gsoc-analyse](https://github.com/erdengk/gsoc-analyse) - 帮助新手参与开源
 
 ## TypeScript
 
@@ -472,8 +512,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
 *   [BoyYangzai/workflow](https://github.com/BoyYangzai/workflow) -
-
-*   [worldzhao/react-ui-library-tutorial](https://github.com/worldzhao/react-ui-library-tutorial) - 📚React组件库搭建指南
 
 ## JavaScript
 
@@ -907,8 +945,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [TonnnnnnyLiu/Books](https://github.com/TonnnnnnyLiu/Books) -
 
-*   [worldzhao/blog](https://github.com/worldzhao/blog) - 个人博客，内容在 issue 里。
-
 ## Vue
 
 *   [zyronon/douyin](https://github.com/zyronon/douyin) -  Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
@@ -992,42 +1028,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [shengxinjing/it-roadmap](https://github.com/shengxinjing/it-roadmap) - 大圣的前端学习路线图
 
 *   [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
-
-## HTML
-
-*   [Quextion/JavaScriptWTF](https://github.com/Quextion/JavaScriptWTF) - whats' the js ?
-
-*   [artiely/notes](https://github.com/artiely/notes) - javascript;css;html笔记 博客地址https://artiely.github.io
-
-*   [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
-
-*   [57code/vue-interview](https://github.com/57code/vue-interview) - 总结前端面试中经典的vue相关题目，分析最佳回答策略。加面试群关注公众号”村长学前端“。
-
-*   [lgd8981289/book\_read\_quickly](https://github.com/lgd8981289/book_read_quickly) - 快读阅读一本书
-
-*   [upupming/frontend-learning-map](https://github.com/upupming/frontend-learning-map) - 前端学习路线（TODOs）
-
-*   [facebook/jsx](https://github.com/facebook/jsx) - The JSX specification is a XML-like syntax extension to ECMAScript.
-
-*   [Tyh2001/tyh2001](https://github.com/Tyh2001/tyh2001) - 👋 I am an independent developer,Now I work in Hangzhou.My favorite development framework is vue.js,I also created my own vue component library tyh-ui.You can also get to know me through blog and twitter.
-
-*   [yanyue404/blog](https://github.com/yanyue404/blog) - Just blog and not just blog.
-
-*   [Innei/Innei](https://github.com/Innei/Innei) -
-
-*   [kuitos/import-html-entry](https://github.com/kuitos/import-html-entry) - import html and take over the exports from the scripts
-
-*   [Sunny-117/mini-vite](https://github.com/Sunny-117/mini-vite) - 下一代的前端工具链 Vite 核心逻辑
-
-*   [RenektonChr/gitbook](https://github.com/RenektonChr/gitbook) - renekton的gitbook
-
-*   [HZFE/awesome-interview](https://github.com/HZFE/awesome-interview) - 剑指前端 Offer
-
-*   [ElemeFE/node-interview](https://github.com/ElemeFE/node-interview) - How to pass the Node.js interview of ElemeFE.
-
-*   [sindresorhus/screenfull](https://github.com/sindresorhus/screenfull) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
-
-*   [erdengk/gsoc-analyse](https://github.com/erdengk/gsoc-analyse) - 帮助新手参与开源
 
 ## Java
 
