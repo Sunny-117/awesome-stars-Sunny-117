@@ -37,6 +37,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [Dockerfile](#dockerfile)
 *   [Ruby](#ruby)
 *   [Dart](#dart)
+*   [C++](#c-1)
 *   [Thanks](#thanks)
 
 ## JavaScript
@@ -433,7 +434,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [pro-collection/interview-question](https://github.com/pro-collection/interview-question) - 目标：收集全网经典面试问题
 
-*   [unjs/unbuild](https://github.com/unjs/unbuild) - 📦 An unified javascript build system
+*   [unjs/unbuild](https://github.com/unjs/unbuild) - 📦 A unified JavaScript build system
 
 *   [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 
@@ -739,7 +740,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 
-*   [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript with Rollup-compatible API.
+*   [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 
 *   [ZhangHanDong/inviting-rust](https://github.com/ZhangHanDong/inviting-rust) - Rust实战视频课程代码示例
 
@@ -911,8 +912,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [eryajf/awesome-stars-eryajf](https://github.com/eryajf/awesome-stars-eryajf) - 🤩 我的star列表，每天凌晨自动更新
 
-*   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
-
 *   [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
 
 *   [murongg/awesome-vue-composables](https://github.com/murongg/awesome-vue-composables) - 👉 Awesome Vue Composables Resources
@@ -1078,6 +1077,10 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 ## Dart
 
 *   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+
+## C++
+
+*   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 
 ## Thanks
 
