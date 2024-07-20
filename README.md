@@ -20,14 +20,14 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
-*   [HTML](#html)
+*   [CSS](#css)
 *   [Go](#go)
 *   [miscellaneous](#miscellaneous)
 *   [Vue](#vue)
 *   [Shell](#shell)
 *   [Python](#python)
+*   [HTML](#html)
 *   [Java](#java)
-*   [CSS](#css)
 *   [Objective-C](#objective-c)
 *   [C](#c)
 *   [Markdown](#markdown)
@@ -754,43 +754,11 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<\<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book
 
-## HTML
+## CSS
 
 *   [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
 
-*   [Quextion/JavaScriptWTF](https://github.com/Quextion/JavaScriptWTF) - whats' the js ?
-
-*   [artiely/notes](https://github.com/artiely/notes) - javascript;css;html笔记 博客地址https://artiely.github.io
-
-*   [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
-
-*   [57code/vue-interview](https://github.com/57code/vue-interview) - 总结前端面试中经典的vue相关题目，分析最佳回答策略。加面试群关注公众号”村长学前端“。
-
-*   [lgd8981289/book\_read\_quickly](https://github.com/lgd8981289/book_read_quickly) - 快读阅读一本书
-
-*   [upupming/frontend-learning-map](https://github.com/upupming/frontend-learning-map) - 前端学习路线（TODOs）
-
-*   [facebook/jsx](https://github.com/facebook/jsx) - The JSX specification is a XML-like syntax extension to ECMAScript.
-
-*   [Tyh2001/tyh2001](https://github.com/Tyh2001/tyh2001) - 👋 I am an independent developer,Now I work in Hangzhou.My favorite development framework is vue.js,I also created my own vue component library tyh-ui.You can also get to know me through blog and twitter.
-
-*   [yanyue404/blog](https://github.com/yanyue404/blog) - Just blog and not just blog.
-
-*   [Innei/Innei](https://github.com/Innei/Innei) -
-
-*   [kuitos/import-html-entry](https://github.com/kuitos/import-html-entry) - import html and take over the exports from the scripts
-
-*   [Sunny-117/mini-vite](https://github.com/Sunny-117/mini-vite) - 下一代的前端工具链 Vite 核心逻辑
-
-*   [RenektonChr/gitbook](https://github.com/RenektonChr/gitbook) - renekton的gitbook
-
-*   [HZFE/awesome-interview](https://github.com/HZFE/awesome-interview) - 剑指前端 Offer
-
-*   [ElemeFE/node-interview](https://github.com/ElemeFE/node-interview) - How to pass the Node.js interview of ElemeFE.
-
-*   [sindresorhus/screenfull](https://github.com/sindresorhus/screenfull) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
-
-*   [erdengk/gsoc-analyse](https://github.com/erdengk/gsoc-analyse) - 帮助新手参与开源
+*   [swanine/dev-tool](https://github.com/swanine/dev-tool) - 🚧 An undefined item
 
 ## Go
 
@@ -1028,6 +996,42 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
 
+## HTML
+
+*   [Quextion/JavaScriptWTF](https://github.com/Quextion/JavaScriptWTF) - whats' the js ?
+
+*   [artiely/notes](https://github.com/artiely/notes) - javascript;css;html笔记 博客地址https://artiely.github.io
+
+*   [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
+
+*   [57code/vue-interview](https://github.com/57code/vue-interview) - 总结前端面试中经典的vue相关题目，分析最佳回答策略。加面试群关注公众号”村长学前端“。
+
+*   [lgd8981289/book\_read\_quickly](https://github.com/lgd8981289/book_read_quickly) - 快读阅读一本书
+
+*   [upupming/frontend-learning-map](https://github.com/upupming/frontend-learning-map) - 前端学习路线（TODOs）
+
+*   [facebook/jsx](https://github.com/facebook/jsx) - The JSX specification is a XML-like syntax extension to ECMAScript.
+
+*   [Tyh2001/tyh2001](https://github.com/Tyh2001/tyh2001) - 👋 I am an independent developer,Now I work in Hangzhou.My favorite development framework is vue.js,I also created my own vue component library tyh-ui.You can also get to know me through blog and twitter.
+
+*   [yanyue404/blog](https://github.com/yanyue404/blog) - Just blog and not just blog.
+
+*   [Innei/Innei](https://github.com/Innei/Innei) -
+
+*   [kuitos/import-html-entry](https://github.com/kuitos/import-html-entry) - import html and take over the exports from the scripts
+
+*   [Sunny-117/mini-vite](https://github.com/Sunny-117/mini-vite) - 下一代的前端工具链 Vite 核心逻辑
+
+*   [RenektonChr/gitbook](https://github.com/RenektonChr/gitbook) - renekton的gitbook
+
+*   [HZFE/awesome-interview](https://github.com/HZFE/awesome-interview) - 剑指前端 Offer
+
+*   [ElemeFE/node-interview](https://github.com/ElemeFE/node-interview) - How to pass the Node.js interview of ElemeFE.
+
+*   [sindresorhus/screenfull](https://github.com/sindresorhus/screenfull) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
+
+*   [erdengk/gsoc-analyse](https://github.com/erdengk/gsoc-analyse) - 帮助新手参与开源
+
 ## Java
 
 *   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
@@ -1035,10 +1039,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [mondaylab/android.financial.management](https://github.com/mondaylab/android.financial.management) - 用android实现一个简易的个人记账App
 
 *   [liyupi/yu-auto-reply](https://github.com/liyupi/yu-auto-reply) - AI 自动回复工具，支持灵活配置多个平台的监控和回答。目前已支持知识星球自动回复、OpenAI（ChatGPT）自动回答
-
-## CSS
-
-*   [swanine/dev-tool](https://github.com/swanine/dev-tool) - 🚧 An undefined item
 
 ## Objective-C
 
