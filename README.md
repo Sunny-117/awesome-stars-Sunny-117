@@ -17,8 +17,8 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 ## Table of Contents
 
-*   [Vue](#vue)
 *   [JavaScript](#javascript)
+*   [Vue](#vue)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [CSS](#css)
@@ -40,59 +40,9 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [C++](#c-1)
 *   [Thanks](#thanks)
 
-## Vue
-
-*   [yuyinws/init-commit](https://github.com/yuyinws/init-commit) - Find the initial commit of a repository.
-
-*   [zyronon/douyin](https://github.com/zyronon/douyin) -  Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
-
-*   [ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss) - :orange\_book: 根据 RSS 订阅源抓取最新前端技术文章，来源：Node Weekly、JavaScript Weekly、前端早读课、前端大全、前端之巅、前端之神、前端技术优选、程序员成长指北、iCSS前端趣闻、字节前端、前端精读评论、前端食堂、前端从进阶到入院、淘系前端团队、张鑫旭博客、前端里、凹凸实验室
-
-*   [zyronon/typing-word](https://github.com/zyronon/typing-word) - 在网页上背单词
-
-*   [ikuaitu/vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) - 快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
-
-*   [Jimmylxue/blog](https://github.com/Jimmylxue/blog) - jimmy的个人博客和知识的在线文档，在线访问：https://www.jimmyxuexue.top/
-
-*   [ChaiMayor/hview-ui](https://github.com/ChaiMayor/hview-ui) - Hview UI - A Vue.js 3 UI library 👻
-
-*   [Ningstyle/mzl-ui](https://github.com/Ningstyle/mzl-ui) - vue3版本前端UI组件库
-
-*   [feedox/alt-gpt](https://github.com/feedox/alt-gpt) - Playground for developing ChatGPT plugins
-
-*   [Sunny-117/network-speed-js](https://github.com/Sunny-117/network-speed-js) - A small tool for testing network speed. It also has the ability to test internal and external networks.
-
-*   [widcardw/D4nm4ku](https://github.com/widcardw/D4nm4ku) - 使用 Tauri 写一个弹幕姬（已停止更新，或许会在几年后重写）
-
-*   [Blackman99/v-rap](https://github.com/Blackman99/v-rap) - A Vue3 lib to help you embed the rap video of the author of Vue.js
-
-*   [vuejs/blog](https://github.com/vuejs/blog) - 📝 The official Vue.js blog
-
-*   [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
-
-*   [LOUSANPANG/fe-workflow](https://github.com/LOUSANPANG/fe-workflow) - 📃 FE Engineering Construction Guide Refspec 前端工程化操作指南文档
-
-*   [zhangyuang/fe-dev-playbook](https://github.com/zhangyuang/fe-dev-playbook) - 教你如何打造舒适、高效、时尚的前端开发环境
-
-*   [qiheizhiya/myBlog](https://github.com/qiheizhiya/myBlog) - 前端+后端。个人博客项目
-
-*   [Sunny-117/blog](https://github.com/Sunny-117/blog) - ✨✨✨ 前端历险记
-
-*   [antfu/100](https://github.com/antfu/100) - My 100-day project of exploring design, compform, and new things.
-
-*   [webfansplz/vite-plugin-vue-inspector](https://github.com/webfansplz/vite-plugin-vue-inspector) - jump to editor source code while click the element of browser automatically.
-
-*   [noransu/javascript-DSAA](https://github.com/noransu/javascript-DSAA) - 用javascript来介绍数据结构与算法
-
-*   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-
-*   [iczer/vue-antd-admin](https://github.com/iczer/vue-antd-admin) - 🐜 Ant Design Pro's implementation with Vue
-
-*   [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - ✨✨✨ Geeker Admin，基于 Vue3.4、TypeScript、Vite5、Pinia、Element-Plus 开源的一套后台管理框架。
-
-*   [shuo-china/shuo-ui](https://github.com/shuo-china/shuo-ui) - A Component Library for Vue3.js.
-
 ## JavaScript
+
+*   [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - ✨✨✨ Challenge your JavaScript programming limits step by step
 
 *   [acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) - Generate the API Client for Fetch or Axios from an OpenAPI Specification
 
@@ -127,8 +77,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [pomber/didact](https://github.com/pomber/didact) - A DIY guide to build your own React
 
 *   [afc163/fanyi](https://github.com/afc163/fanyi) - A 🇨🇳 and 🇺🇸 translate tool in your command line.
-
-*   [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - ✨✨✨ Challenge your JavaScript programming limits step by step
 
 *   [gaearon/overreacted.io](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov.
 
@@ -369,6 +317,58 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [GuYun-D/mini-vue2.0](https://github.com/GuYun-D/mini-vue2.0) - It's wonderful to realize vue2 by myself😍
 
 *   [hug-sun/element3](https://github.com/hug-sun/element3) - A Vue.js 3.0 UI Toolkit for IT Education. Build with JS\&TS
+
+## Vue
+
+*   [yuyinws/init-commit](https://github.com/yuyinws/init-commit) - Find the initial commit of a repository.
+
+*   [zyronon/douyin](https://github.com/zyronon/douyin) -  Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
+
+*   [ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss) - :orange\_book: 根据 RSS 订阅源抓取最新前端技术文章，来源：Node Weekly、JavaScript Weekly、前端早读课、前端大全、前端之巅、前端之神、前端技术优选、程序员成长指北、iCSS前端趣闻、字节前端、前端精读评论、前端食堂、前端从进阶到入院、淘系前端团队、张鑫旭博客、前端里、凹凸实验室
+
+*   [zyronon/typing-word](https://github.com/zyronon/typing-word) - 在网页上背单词
+
+*   [ikuaitu/vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) - 快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
+
+*   [Jimmylxue/blog](https://github.com/Jimmylxue/blog) - jimmy的个人博客和知识的在线文档，在线访问：https://www.jimmyxuexue.top/
+
+*   [ChaiMayor/hview-ui](https://github.com/ChaiMayor/hview-ui) - Hview UI - A Vue.js 3 UI library 👻
+
+*   [Ningstyle/mzl-ui](https://github.com/Ningstyle/mzl-ui) - vue3版本前端UI组件库
+
+*   [feedox/alt-gpt](https://github.com/feedox/alt-gpt) - Playground for developing ChatGPT plugins
+
+*   [Sunny-117/network-speed-js](https://github.com/Sunny-117/network-speed-js) - A small tool for testing network speed. It also has the ability to test internal and external networks.
+
+*   [widcardw/D4nm4ku](https://github.com/widcardw/D4nm4ku) - 使用 Tauri 写一个弹幕姬（已停止更新，或许会在几年后重写）
+
+*   [Blackman99/v-rap](https://github.com/Blackman99/v-rap) - A Vue3 lib to help you embed the rap video of the author of Vue.js
+
+*   [vuejs/blog](https://github.com/vuejs/blog) - 📝 The official Vue.js blog
+
+*   [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
+
+*   [LOUSANPANG/fe-workflow](https://github.com/LOUSANPANG/fe-workflow) - 📃 FE Engineering Construction Guide Refspec 前端工程化操作指南文档
+
+*   [zhangyuang/fe-dev-playbook](https://github.com/zhangyuang/fe-dev-playbook) - 教你如何打造舒适、高效、时尚的前端开发环境
+
+*   [qiheizhiya/myBlog](https://github.com/qiheizhiya/myBlog) - 前端+后端。个人博客项目
+
+*   [Sunny-117/blog](https://github.com/Sunny-117/blog) - ✨✨✨ 前端历险记
+
+*   [antfu/100](https://github.com/antfu/100) - My 100-day project of exploring design, compform, and new things.
+
+*   [webfansplz/vite-plugin-vue-inspector](https://github.com/webfansplz/vite-plugin-vue-inspector) - jump to editor source code while click the element of browser automatically.
+
+*   [noransu/javascript-DSAA](https://github.com/noransu/javascript-DSAA) - 用javascript来介绍数据结构与算法
+
+*   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+
+*   [iczer/vue-antd-admin](https://github.com/iczer/vue-antd-admin) - 🐜 Ant Design Pro's implementation with Vue
+
+*   [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - ✨✨✨ Geeker Admin，基于 Vue3.4、TypeScript、Vite5、Pinia、Element-Plus 开源的一套后台管理框架。
+
+*   [shuo-china/shuo-ui](https://github.com/shuo-china/shuo-ui) - A Component Library for Vue3.js.
 
 ## TypeScript
 
