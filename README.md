@@ -118,6 +118,8 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview) - 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
 
+*   [Sunny-117/rollup-core-plugins](https://github.com/Sunny-117/rollup-core-plugins) - rollup-core-plugins
+
 *   [Sunny-117/browser-core](https://github.com/Sunny-117/browser-core) - 实现最简浏览器渲染模型
 
 *   [Sunny-117/mini-anything](https://github.com/Sunny-117/mini-anything) - 🚀 Explore the source code of the front-end library and implement a super mini version
@@ -453,8 +455,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [skywalker512/vue-rsloader](https://github.com/skywalker512/vue-rsloader) - 📦 Rspack loader for Vue.js components pnpm add vue-rsloader
 
 *   [samzhangjy/ts-json-parser](https://github.com/samzhangjy/ts-json-parser) - A JSON parser written with TypeScript type system.
-
-*   [Sunny-117/rollup-core-plugins](https://github.com/Sunny-117/rollup-core-plugins) - rollup-core-plugins
 
 *   [M-cheng-web/web-tracing](https://github.com/M-cheng-web/web-tracing) - 为前端项目提供【 埋点、行为、性能、异常、请求、资源、路由、曝光、录屏 】监控手段
 
