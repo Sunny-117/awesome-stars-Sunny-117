@@ -42,6 +42,8 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 ## Rust
 
+*   [web-infra-dev/mdx-rs](https://github.com/web-infra-dev/mdx-rs) - Rust MDX compilation binding for Rspress
+
 *   [KermanX/js\_to\_oxc](https://github.com/KermanX/js_to_oxc) - Convert JS source to Oxc AST builder in Rust
 
 *   [rustify-org/chat](https://github.com/rustify-org/chat) - Rust构建简易实时聊天系统
@@ -88,7 +90,7 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 
 *   [juri-web/juri](https://github.com/juri-web/juri) - Web Framework
 
-*   [1739616529/nsv](https://github.com/1739616529/nsv) - 一个跨平台node版本管理工具
+*   [jshub-top/nsv](https://github.com/jshub-top/nsv) - 一个跨平台node版本管理工具
 
 *   [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 
@@ -963,8 +965,6 @@ license](https://img.shields.io/github/license/Sunny-117/awesome-stars-Sunny-117
 *   [akira-cn/moyu](https://github.com/akira-cn/moyu) - Github 摸鱼大全！
 
 *   [cuixiaorui/study-every-day](https://github.com/cuixiaorui/study-every-day) - stduy programming skills of javascript every day
-
-*   [vue3/vue3-News](https://github.com/vue3/vue3-News) - 🔥 Find the latest breaking Vue3、Vue CLI 3+ & Vite  News. (2021/2022/2023)
 
 ## Shell
 
